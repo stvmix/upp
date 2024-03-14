@@ -1,5 +1,120 @@
-#EXTM3U
+#EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58,http://m3u4u.com/xml/jq2zy9pzprh3jkjnxr58,https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml "
 
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", ADRENALINA HD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/28.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", AFIZZIONADOS HD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/7.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", BEIN SPORTS XTRA :TV
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/74.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", BEIN SPORTS Ñ 
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/42.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", CBS SPORTS NET US 
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/35.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", CLARO SPORTS 2 HD :TV
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/75.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", DAZN 2 FHD 
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/30.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", DAZN F1 HD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/6.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", ESPN 1 LA FHD 
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/94.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", ESPN 1 US HD 
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/4.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", ESPN 2 LA :IF
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/1.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", ESPN3 LA 
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/46.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", FOX DEPORTES  :IF 
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/2.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", FOX SPORTS 1 MX HD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/3.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", FS1 US HD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/60.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", GOLPERU FHD :TV
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/96.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", MLB NET US HD 
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/47.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", MOVISTAR LIGA DE CAMPEONES HD :TV
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/97.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", SKY PREMIER LEAGUE FHD 
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/98.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", TENIS US 
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/39.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", TIGO SPORTS HD :TV
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/95.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", UFC NET FHD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/5.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", USA NET HD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/50.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
