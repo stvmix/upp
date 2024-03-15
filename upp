@@ -718,3 +718,49 @@ http://23.175.48.252:25461/live/televall/tm2CfUujSc/13.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 group-title="CANALES VARIADOS", WOW TV HON
 http://23.175.48.252:25461/live/televall/tm2CfUujSc/109.m3u8
+
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", IMAGENTV
+http://23.175.48.252:25461/live/televall/tm2CfUujSc/117.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", GOLDEN PREMIER FHD
+http://23.175.48.252:25461/live/televall/tm2CfUujSc/173.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", HISTORY 2 HD 
+http://23.175.48.252:25461/live/televall/tm2CfUujSc/157.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", HBO XTREME HD
+http://23.175.48.252:25461/live/televall/tm2CfUujSc/182.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", TCM
+http://23.175.48.252:25461/live/televall/tm2CfUujSc/151.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", I-SAT
+http://23.175.48.252:25461/live/televall/tm2CfUujSc/183.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", STUDIO UNIVERSAL 
+http://23.175.48.252:25461/live/televall/tm2CfUujSc/149.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", GLITZ 
+http://23.175.48.252:25461/live/televall/tm2CfUujSc/124.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", TNT SPORTS
+http://23.175.48.252:25461/ligatv/eTnAN837tX/220
