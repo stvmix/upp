@@ -13,8 +13,8 @@ http://23.175.48.252:25461/live/ligatv/eTnAN837tX/207.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", TNT SPORTS LA HD
-http://23.175.48.252:25461/live/ligatv/eTnAN837tX/220.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", TYC SPORTS AR HD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/221.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -23,40 +23,48 @@ http://23.175.48.252:25461/live/ligatv/eTnAN837tX/213.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", TYC SPORTS AR HD
-http://23.175.48.252:25461/live/ligatv/eTnAN837tX/221.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", FOX SPORTS PREMIUM HD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/197.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", ADRENALINA HD
-https://linear-393.frequency.stream/mt/studio/393/hls/master/playlist.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", AFIZZIONADOS HD
-http://23.175.48.252:25461/live/ligatv/eTnAN837tX/7.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", BEIN SPORTS XTRA :TV
-http://23.175.48.252:25461/live/ligatv/eTnAN837tX/74.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", BEIN SPORTS Ñ 
-http://23.175.48.252:25461/live/ligatv/eTnAN837tX/42.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", CLARO SPORTS 1 MX FHD
-http://23.175.48.252:25461/live/ligatv/eTnAN837tX/191.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", CLARO SPORTS 2 HD :TV
-http://23.175.48.252:25461/live/ligatv/eTnAN837tX/75.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", ESPN DEPORTES HD
+#EXTINF:-1 group-title="CANALES VARIADOS", ESPN DEPORTES HD LIGA
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/192.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", SKY LALIGA HD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/219.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", TNT SPORTS 3 LA
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/220.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", FOX SPORTS 1 MX HD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/3.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", FOX SPORTS 2 MX FHD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/198.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", FOX SPORTS 3 MX HD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/199.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", FOX SPORTS 3 LA HD 
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/217.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", ESPN 1 LA FHD 
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/94.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -75,23 +83,38 @@ http://23.175.48.252:25461/live/ligatv/eTnAN837tX/195.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", ESPN 4 LA FHD 
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/214.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 group-title="CANALES VARIADOS", ESPN EXTRA MX FHD
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/196.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", FOX SPORTS PREMIUM HD
-http://23.175.48.252:25461/live/ligatv/eTnAN837tX/197.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", ADRENALINA HD
+https://linear-393.frequency.stream/mt/studio/393/hls/master/playlist.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", FOX SPORTS 2 MX FHD
-http://23.175.48.252:25461/live/ligatv/eTnAN837tX/198.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", AFIZZIONADOS HD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/7.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", FOX SPORTS 3 MX HD
-http://23.175.48.252:25461/live/ligatv/eTnAN837tX/199.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", BEIN SPORTS 
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/42.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", CLARO SPORTS 1 MX FHD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/191.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", CLARO SPORTS 2 HD :TV
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/75.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -102,21 +125,6 @@ http://23.175.48.252:25461/live/ligatv/eTnAN837tX/208.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 group-title="CANALES VARIADOS", GOLF HD
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/209.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", ESPN 4 LA FHD 
-http://23.175.48.252:25461/live/ligatv/eTnAN837tX/214.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", FOX SPORTS 3 LA HD 
-http://23.175.48.252:25461/live/ligatv/eTnAN837tX/217.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", SKY LALIGA HD
-http://23.175.48.252:25461/live/ligatv/eTnAN837tX/219.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -137,16 +145,6 @@ http://23.175.48.252:25461/live/ligatv/eTnAN837tX/202.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 group-title="CANALES VARIADOS", TVC DEPORTES HD
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/204.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", ESPN 1 LA FHD 
-http://23.175.48.252:25461/live/ligatv/eTnAN837tX/94.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", FOX SPORTS 1 MX HD
-http://23.175.48.252:25461/live/ligatv/eTnAN837tX/3.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -195,13 +193,28 @@ http://23.175.48.252:25461/live/televall/tm2CfUujSc/41.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", NUEVE 
-http://23.175.48.252:25461/live/ligatv/eTnAN837tX/118.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", GALAVISION SD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/41.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", IMAGENTV FHD
-http://23.175.48.252:25461/live/ligatv/eTnAN837tX/117.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", UNIMAS HD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/126.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", TELEMUNDO HD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/225.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", UNIVISION HD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/127.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", NUEVE 
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/118.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -230,18 +243,17 @@ http://23.175.48.252:25461/live/televall/tm2CfUujSc/27.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", SPACE FHD 
-http://23.175.48.252:25461/live/ligatv/eTnAN837tX/148.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", LAS ESTRELLAS
+http://23.175.48.252:25461/live/televall/tm2CfUujSc/114.m3u8
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", NUEVE
+http://23.175.48.252:25461/live/televall/tm2CfUujSc/118.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", CINEMAX HD 
-http://23.175.48.252:25461/live/ligatv/eTnAN837tX/141.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", TNT HD
-http://23.175.48.252:25461/live/ligatv/eTnAN837tX/9.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", PASIONES
+http://23.175.48.252:25461/live/televall/tm2CfUujSc/133.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -258,23 +270,42 @@ http://23.175.48.252:25461/live/ligatv/eTnAN837tX/123.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", GALAVISION SD
-http://23.175.48.252:25461/live/ligatv/eTnAN837tX/41.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", RCN CO
+http://23.175.48.252:25461/live/televall/tm2CfUujSc/123.m3u8##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", SPACE FHD 
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/148.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", UNIMAS HD
-http://23.175.48.252:25461/live/ligatv/eTnAN837tX/126.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", CINEMAX HD 
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/141.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", TELEMUNDO HD
-http://23.175.48.252:25461/live/ligatv/eTnAN837tX/225.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", TNT HD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/9.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", UNIVISION HD
-http://23.175.48.252:25461/live/ligatv/eTnAN837tX/127.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", PARAMOUNT CH
+http://23.175.48.252:25461/live/televall/tm2CfUujSc/147.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", SONY TV
+http://23.175.48.252:25461/live/televall/tm2CfUujSc/8.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", SPACE
+http://23.175.48.252:25461/live/televall/tm2CfUujSc/148.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", STAR CH
+http://23.175.48.252:25461/live/televall/tm2CfUujSc/181.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -288,105 +319,19 @@ http://23.175.48.252:25461/live/televall/tm2CfUujSc/121.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", AMC
-http://23.175.48.252:25461/live/televall/tm2CfUujSc/91.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", AMX
-http://23.175.48.252:25461/live/televall/tm2CfUujSc/77.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", ANIMAL PLANET
-http://23.175.48.252:25461/live/televall/tm2CfUujSc/15.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 group-title="CANALES VARIADOS", ANTENA 3
 http://23.175.48.252:25461/live/televall/tm2CfUujSc/20.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", AMC
+http://23.175.48.252:25461/live/televall/tm2CfUujSc/91.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 group-title="CANALES VARIADOS", AXN
 http://23.175.48.252:25461/live/televall/tm2CfUujSc/129.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", BABY FIRTS US
-http://23.175.48.252:25461/live/televall/tm2CfUujSc/31.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", BABY SHARK
-http://23.175.48.252:25461/live/televall/tm2CfUujSc/103.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", BABY TV
-http://23.175.48.252:25461/live/televall/tm2CfUujSc/12.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", D KIDS
-http://23.175.48.252:25461/live/televall/tm2CfUujSc/55.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", DISNEY CH
-http://23.175.48.252:25461/live/televall/tm2CfUujSc/164.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", DISNEY JR
-http://23.175.48.252:25461/live/televall/tm2CfUujSc/165.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", BITME
-http://23.175.48.252:25461/live/televall/tm2CfUujSc/163.m3u8
 
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", NICK JR
-http://23.175.48.252:25461/live/televall/tm2CfUujSc/10.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", NICKELODEON
-http://23.175.48.252:25461/live/televall/tm2CfUujSc/166.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", NICKTOONS
-http://23.175.48.252:25461/live/televall/tm2CfUujSc/167.m3u8
-##EXTVLCOPT:network-caching=1000
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", ONCE TV SD
-http://23.175.48.252:25461/live/televall/tm2CfUujSc/25.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", PEQUE RADIO
-http://23.175.48.252:25461/live/televall/tm2CfUujSc/107.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", TOON GOOGLES
-http://23.175.48.252:25461/live/televall/tm2CfUujSc/108.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", TOONCAST
-http://23.175.48.252:25461/live/televall/tm2CfUujSc/168.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", CANAL 14 MX
-http://23.175.48.252:25461/live/televall/tm2CfUujSc/73.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -435,8 +380,114 @@ http://23.175.48.252:25461/live/televall/tm2CfUujSc/145.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", TLNOVELAS
+http://23.175.48.252:25461/live/televall/tm2CfUujSc/134.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", TNT
+http://23.175.48.252:25461/live/televall/tm2CfUujSc/9.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", TNT NOVELAS
+http://23.175.48.252:25461/live/televall/tm2CfUujSc/135.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", TNT SERIES
+http://23.175.48.252:25461/live/televall/tm2CfUujSc/137.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 group-title="CANALES VARIADOS", COMEDY CENTRAL
 http://23.175.48.252:25461/live/televall/tm2CfUujSc/130.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", DISTRITO COMEDIA
+http://23.175.48.252:25461/live/televall/tm2CfUujSc/120.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", BABY FIRTS LA
+http://23.175.48.252:25461/live/televall/tm2CfUujSc/31.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", BABY SHARK
+http://23.175.48.252:25461/live/televall/tm2CfUujSc/103.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", BABY TV
+http://23.175.48.252:25461/live/televall/tm2CfUujSc/12.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", D KIDS
+http://23.175.48.252:25461/live/televall/tm2CfUujSc/55.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", DISNEY CH
+http://23.175.48.252:25461/live/televall/tm2CfUujSc/164.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", DISNEY JR
+http://23.175.48.252:25461/live/televall/tm2CfUujSc/165.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", BITME
+http://23.175.48.252:25461/live/televall/tm2CfUujSc/163.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", TIGUERITOS
+http://23.175.48.252:25461/live/televall/tm2CfUujSc/92.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", NICK JR
+http://23.175.48.252:25461/live/televall/tm2CfUujSc/10.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", NICKELODEON
+http://23.175.48.252:25461/live/televall/tm2CfUujSc/166.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", NICKTOONS
+http://23.175.48.252:25461/live/televall/tm2CfUujSc/167.m3u8
+##EXTVLCOPT:network-caching=1000
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", ONCE TV SD
+http://23.175.48.252:25461/live/televall/tm2CfUujSc/25.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", PEQUE RADIO
+http://23.175.48.252:25461/live/televall/tm2CfUujSc/107.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", TOON GOOGLES
+http://23.175.48.252:25461/live/televall/tm2CfUujSc/108.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", TOONCAST
+http://23.175.48.252:25461/live/televall/tm2CfUujSc/168.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", ANIMAL PLANET
+http://23.175.48.252:25461/live/televall/tm2CfUujSc/15.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -472,11 +523,6 @@ http://23.175.48.252:25461/live/televall/tm2CfUujSc/152.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 group-title="CANALES VARIADOS", DISCOVERY ID
 http://23.175.48.252:25461/live/televall/tm2CfUujSc/59.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", DISTRITO COMEDIA
-http://23.175.48.252:25461/live/televall/tm2CfUujSc/120.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -586,25 +632,6 @@ http://23.175.48.252:25461/live/televall/tm2CfUujSc/159.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", IMAGENTV
-http://23.175.48.252:25461/live/televall/tm2CfUujSc/117.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", LAS ESTRELLAS
-http://23.175.48.252:25461/live/televall/tm2CfUujSc/114.m3u8
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", NUEVE
-http://23.175.48.252:25461/live/televall/tm2CfUujSc/118.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", LIFETIME
-http://23.175.48.252:25461/live/televall/tm2CfUujSc/132.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 group-title="CANALES VARIADOS", MAS CHIC
 http://23.175.48.252:25461/live/televall/tm2CfUujSc/160.m3u8
 ##EXTVLCOPT:network-caching=1000
@@ -613,41 +640,7 @@ http://23.175.48.252:25461/live/televall/tm2CfUujSc/160.m3u8
 #EXTINF:-1 group-title="CANALES VARIADOS", MTV LIVE
 http://23.175.48.252:25461/live/televall/tm2CfUujSc/23.m3u8
 
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", PARAMOUNT CH
-http://23.175.48.252:25461/live/televall/tm2CfUujSc/147.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", PASIONES
-http://23.175.48.252:25461/live/televall/tm2CfUujSc/133.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", RCN CO
-http://23.175.48.252:25461/live/televall/tm2CfUujSc/123.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", SONY TV
-http://23.175.48.252:25461/live/televall/tm2CfUujSc/8.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", SPACE
-http://23.175.48.252:25461/live/televall/tm2CfUujSc/148.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", STAR CH
-http://23.175.48.252:25461/live/televall/tm2CfUujSc/181.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", TCM
-http://23.175.48.252:25461/live/televall/tm2CfUujSc/151.m3u8
+
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -678,31 +671,8 @@ http://23.175.48.252:25461/live/televall/tm2CfUujSc/78.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 group-title="CANALES VARIADOS", TELEVISA MTY
 http://23.175.48.252:25461/live/televall/tm2CfUujSc/29.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", TIGUERITOS
-http://23.175.48.252:25461/live/televall/tm2CfUujSc/92.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", TLNOVELAS
-http://23.175.48.252:25461/live/televall/tm2CfUujSc/134.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", TNT
-http://23.175.48.252:25461/live/televall/tm2CfUujSc/9.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", TNT NOVELAS
-http://23.175.48.252:25461/live/televall/tm2CfUujSc/135.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", TNT SERIES
-http://23.175.48.252:25461/live/televall/tm2CfUujSc/137.m3u8
+
+
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
