@@ -738,3 +738,43 @@ http://23.175.48.252:25461/live/televall/tm2CfUujSc/149.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 group-title="CANALES VARIADOS", WOW TV HON
 http://23.175.48.252:25461/live/televall/tm2CfUujSc/109.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", GH Camara 1
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/535310
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", GH Camara 2
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/535309
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", GH Camara 3
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/535308
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS",DirecTv 1 Perú
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/46939
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS",DirecTV Sports HD ARG c
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/310533
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", DirecTV Sports HD ARG a
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/310509
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS",DirecTV Sports b
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/158506
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS",DirecTV Sports 1 ARG HD 
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/158511
