@@ -1,37 +1,5 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58,http://m3u4u.com/xml/jq2zy9pzprh3jkjnxr58,https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml "
 
-
-
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", D SPORTS 0
-http://23.175.48.252:25461/live/ligatv/eTnAN837tX/200.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", D SPORTS 1
-http://23.175.48.252:25461/live/ligatv/eTnAN837tX/201.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", D SPORTS 2
-http://23.175.48.252:25461/live/ligatv/eTnAN837tX/202.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", D SPORTS 3
-http://23.175.48.252:25461/live/ligatv/eTnAN837tX/203.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", D SPORTS 4
-http://23.175.48.252:25461/live/ligatv/eTnAN837tX/204.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", D SPORTS 5
-http://23.175.48.252:25461/live/ligatv/eTnAN837tX/205.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -57,6 +25,11 @@ http://23.175.48.252:25461/live/ligatv/eTnAN837tX/213.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 group-title="CANALES VARIADOS", FOX SPORTS PREMIUM HD
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/197.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS", FOX DEPORTES
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/200.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
