@@ -3,6 +3,21 @@
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS",DirecTV Sports HD ARG A
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/310533
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS",DirecTV Sports B
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/158506
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="CANALES VARIADOS",DirecTV Sports 1 ARG HD 
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/158511
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 group-title="CANALES VARIADOS", D SPORTS HD
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/206.m3u8
 ##EXTVLCOPT:network-caching=1000
@@ -753,28 +768,32 @@ http://home-playtv.com:8080/restreamhome/HUvCLa351719/535309
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 group-title="CANALES VARIADOS", GH Camara 3
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/535308
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS",DirecTv 1 Perú
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/46939
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS",DirecTV Sports HD ARG c
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/310533
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS", DirecTV Sports HD ARG a
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/310509
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS",DirecTV Sports b
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/158506
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="CANALES VARIADOS",DirecTV Sports 1 ARG HD 
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/158511
+
+#EXTINF:-1,AR | Paka_Paka
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/19555
+#EXTINF:-1,AR | CronicaTV 
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/19708
+#EXTINF:-1,AR | DeporTV HD 
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/19709
+#EXTINF:-1,AR | Volver
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/19983
+#EXTINF:-1,AR | TV Pública HD
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/46972
+#EXTINF:-1,AR | TeleMax (Q)
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/46973
+#EXTINF:-1,AR | El Trece HD 
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/46976
+#EXTINF:-1,AR | El Nueve HD 
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/46977
+#EXTINF:-1,AR | Canal 9 * Salta, Argentina
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/47017
+#EXTINF:-1,AR | Net TV
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/54165
+#EXTINF:-1,AR | Canal 26 HD
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/54199
+#EXTINF:-1,AR | Canal 5 TV Corrientes
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/54215
+#EXTINF:-1,AR | Litus TV Santa Fé (Q)
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/54231
+#EXTINF:-1,AR | América TV HD
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/209741
