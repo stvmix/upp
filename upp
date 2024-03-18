@@ -9,6 +9,52 @@ http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/132442
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5eVXghNNepwv_1RdjZKf1RgIj_QD4j-zdEQGZyVt6omJ0IF3E1U31TNbdkWaZcJPxbZ0&usqp=CAU" group-title="Eventos Del Dia",Camara 3 Gran Hermano Argentina 24Hrs 
 http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/132443
 
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Premium MX (p)" tvg-logo="https://panel.budtv-ultra.com/posters/1649093109303.png" group-title="Latinos",Fox Sports Premium MX (p)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/53540
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/FOX%20DEPORTES.png" group-title="Deportes",FOX Deportes HD (i)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/40910
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/MOVISTAR%20%20LA%20LIGA%20DE%20CAMPEONES.png" group-title="Deportes",Liga De Campeones (p)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/1615
+#EXTINF:-1 tvg-logo="https://budtv-ultra.com/posters/1645227888228.png" group-title="Deportes",Scai LaLiga (p)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/130490
+#EXTINF:-1 tvg-logo="https://budtv-ultra.com/posters/1688754385348.png" group-title="Deportes",Scai Premier League (i)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/130487
+
+#EXTINF:-1 tvg-logo="https://budtv-ultra.com/posters/1708666115458.png" group-title="Deportes",ES-PN Premium (AR) (i)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/38746
+#EXTINF:-1 tvg-id="2114.stations.xmltv.tvmedia.ca" tvg-name="ES-PN Premium AR (p)" tvg-logo="https://budtv-ultra.com/posters/1708666115458.png" group-title="Argentina",ES-PN Premium AR (p)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/1652
+#EXTINF:-1 tvg-id="" tvg-name="T-n-T Sports (AR) (i)" tvg-logo="" group-title="Argentina",T-n-T Sports (AR) (i)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/132736
+#EXTINF:-1 tvg-id="" tvg-name="T-n-T SPORTS (AR)(p)" tvg-logo="" group-title="Argentina",T-n-T SPORTS (AR)(p)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/132737
+#EXTINF:-1 tvg-id="" tvg-name="T-n-T Sports SD (AR)(p)" tvg-logo="" group-title="Argentina",T-n-T Sports SD (AR)(p)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/132738
+#EXTINF:-1 tvg-id="" tvg-name="TYC Sports Internacional" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/TYC%20SPORTS.png" group-title="Deportes",TYC Sports Internacional
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/69636
+#EXTINF:-1 tvg-id="" tvg-name="TyC Sports UHD (i)" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/TYC%20SPORTS.png" group-title="Argentina",TyC Sports UHD (i)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/1651
+
+#EXTINF:-1 tvg-id="" tvg-name="DTV Sports 2 HD (i)" tvg-logo="" group-title="Argentina",DTV Sports 2 HD (i)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/37838
+
+#EXTINF:-1 tvg-id="" tvg-name="DTV Sports 2 (ECU)(p)" tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/DIRECTV%20SPORTS%202.png" group-title="Ecuador.",DTV Sports 2 (ECU)(p)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/55286
+#EXTINF:-1 tvg-id="" tvg-name="DTV Sports 1 (ECU)(p)" tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/DIRECTV%20SPORTS%202.png" group-title="Ecuador.",DTV Sports 1 (ECU)(p)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/65179
+
+#EXTINF:-1 tvg-logo="" group-title="Uruguay",DTV Sports (UY)(p)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/92320
+#EXTINF:-1 tvg-logo="https://budtv-ultra.com/posters/1686583437162.png" group-title="Colombia",DTV Spots (CO)(i)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/37841
+#EXTINF:-1 tvg-logo="https://budtv-ultra.com/posters/1686583437162.png" group-title="Deportes",DTV Sports Plus (i)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/37839
+
+#EXTINF:-1 tvg-id="" tvg-name="DTV Sports HD (AR) (i)" tvg-logo="" group-title="Argentina",DTV Sports HD (AR) (i)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/37843
+#EXTINF:-1 tvg-id="20369.stations.xmltv.tvmedia.ca" tvg-name="DTV Sports (ARGENTINA) HD" tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/DIRECTV%20SPORTS.png" group-title="Argentina",DTV Sports (ARGENTINA) HD
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/1643
+
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 group-title="CANALES VARIADOS", D SPORTS HD
@@ -200,6 +246,65 @@ http://23.175.48.252:25461/live/ligatv/eTnAN837tX/204.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 group-title="CANALES VARIADOS", TIGO SPORTS HD :TV
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/95.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson New HD" tvg-logo="" group-title="24/7",Los Simpson New HD
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/38706
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/11978
+#EXTINF:-1 tvg-id="" tvg-name="Digimon" tvg-logo="https://budtv-ultra.com/posters/1629306602272.png" group-title="24/7",Digimon
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/11085
+#EXTINF:-1 tvg-id="" tvg-name="Dragon ball super (p)" tvg-logo="https://panel.budtv-ultra.com/posters/1629306687352.png" group-title="24/7",Dragon ball super (p)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/2338
+#EXTINF:-1 tvg-id="" tvg-name="DTM Pokemon" tvg-logo="https://budtv-ultra.com/posters/1629258361351.png" group-title="24/7",DTM Pokemon
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/12066
+#EXTINF:-1 tvg-id="" tvg-name="El Chapulin Colorado" tvg-logo="https://budtv-ultra.com/posters/1629306756215.png" group-title="24/7",El Chapulin Colorado
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/2343
+
+
+#EXTINF:-1 tvg-id="1082.stations.xmltv.tvmedia.ca" tvg-name="A24 (AR)(p)" tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/A24.png" group-title="Argentina",A24 (AR)(p)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/1799
+#EXTINF:-1 tvg-id="1894.stations.xmltv.tvmedia.ca" tvg-name="AMERICA TV" tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/AMERICATV.png" group-title="Argentina",AMERICA TV
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/1794
+#EXTINF:-1 tvg-id="32886.stations.xmltv.tvmedia.ca" tvg-name="C5N (AR)(p)" tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/C5N.png" group-title="Argentina",C5N (AR)(p)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/1800
+#EXTINF:-1 tvg-id="2010.stations.xmltv.tvmedia.ca" tvg-name="Canal-26-HD (AR)(p)" tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/CANAL%2026.png" group-title="Argentina",Canal-26-HD (AR)(p)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/1801
+#EXTINF:-1 tvg-id="176.stations.xmltv.tvmedia.ca" tvg-name="Cronica-HD" tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/CRONCIA.png" group-title="Argentina",Cronica-HD
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/1805
+#EXTINF:-1 tvg-id="18861.stations.xmltv.tvmedia.ca" tvg-name="El Trece Internacional" tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/EL%20TRECE.png" group-title="Argentina",El Trece Internacional
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/1815
+#EXTINF:-1 tvg-id="2114.stations.xmltv.tvmedia.ca" tvg-name="FOX SPORTS 2 (AR)(p)" tvg-logo="https://budtv-ultra.com/posters/1606784389233.png" group-title="Argentina",FOX SPORTS 2 (AR)(p)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/1639
+#EXTINF:-1 tvg-id="7538.stations.xmltv.tvmedia.ca" tvg-name="FOX SPORTS 3 (AR)" tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/FOX%20SPORTS%203%20SUR.png" group-title="Argentina",FOX SPORTS 3 (AR)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/1642
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 1,I-HD (AR) " tvg-logo="https://budtv-ultra.com/posters/1635232038267.png" group-title="Argentina",FOX Sports 1,I-HD (AR) 
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/37828
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 1HD (AR)." tvg-logo="https://budtv-ultra.com/posters/1635232038267.png" group-title="Argentina",FOX Sports 1HD (AR).
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/37830
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 2 SD (AR)(i)" tvg-logo="https://budtv-ultra.com/posters/1606784389233.png" group-title="Argentina",FOX Sports 2 SD (AR)(i)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/37829
+#EXTINF:-1 tvg-id="3333.stations.xmltv.tvmedia.ca" tvg-name="Telefe (i)" tvg-logo="https://budtv-ultra.com/posters/1662177895166.png" group-title="Argentina",Telefe (i)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/1793
+#EXTINF:-1 tvg-id="" tvg-name="Telefe (p)" tvg-logo="https://budtv-ultra.com/posters/1662177895166.png" group-title="Argentina",Telefe (p)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/81230
+#EXTINF:-1 tvg-id="" tvg-name="Telefe Inter (p)" tvg-logo="https://budtv-ultra.com/posters/1662177895166.png" group-title="Argentina",Telefe Inter (p)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/81231
+#EXTINF:-1 tvg-id="655.stations.xmltv.tvmedia.ca" tvg-name="TN (AR)(p)" tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/TN%20.png" group-title="Argentina",TN (AR)(p)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/1811
+#EXTINF:-1 tvg-id="1629.stations.xmltv.tvmedia.ca" tvg-name="TV PUBLICA (p)" tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/TV%20PUBLICA.png" group-title="Argentina",TV PUBLICA (p)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/1878
+#EXTINF:-1 tvg-id="" tvg-name="TV Publica HD (i)" tvg-logo="" group-title="Argentina",TV Publica HD (i)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/38573
+#EXTINF:-1 tvg-id="" tvg-name="El Nueve Argentina (i)" tvg-logo="" group-title="Argentina",El Nueve Argentina (i)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/132881
+#EXTINF:-1 tvg-id="" tvg-name="El Nueve Argentina" tvg-logo="" group-title="Argentina",El Nueve Argentina
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/132882
+#EXTINF:-1 tvg-id="" tvg-name="ES-PN AR (R)" tvg-logo="https://budtv-ultra.com/posters/1625187931347.png" group-title="Argentina",ES-PN AR (R)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/155905
+#EXTINF:-1 tvg-id="" tvg-name="ES-PN AR (R) op2" tvg-logo="https://budtv-ultra.com/posters/1625187931347.png" group-title="Argentina",ES-PN AR (R) op2
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/155906
+#EXTINF:-1 tvg-id="" tvg-name="ES-PN AR (R) op4" tvg-logo="https://budtv-ultra.com/posters/1625187931347.png" group-title="Argentina",ES-PN AR (R) op4
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/155908
+
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
