@@ -15,41 +15,29 @@ http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/53540
 http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/40910
 #EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/MOVISTAR%20%20LA%20LIGA%20DE%20CAMPEONES.png" group-title="Deportes",Liga De Campeones (p)
 http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/1615
-#EXTINF:-1 tvg-logo="https://budtv-ultra.com/posters/1645227888228.png" group-title="Deportes",Scai LaLiga (p)
+#EXTINF:-1 tvg-logo="https://budtv-ultra.com/posters/1645227888228.png" group-title="Deportes",Sky LaLiga (p)
 http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/130490
-#EXTINF:-1 tvg-logo="https://budtv-ultra.com/posters/1688754385348.png" group-title="Deportes",Scai Premier League (i)
-http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/130487
 
-#EXTINF:-1 tvg-logo="https://budtv-ultra.com/posters/1708666115458.png" group-title="Deportes",ES-PN Premium (AR) (i)
-http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/38746
 #EXTINF:-1 tvg-id="2114.stations.xmltv.tvmedia.ca" tvg-name="ES-PN Premium AR (p)" tvg-logo="https://budtv-ultra.com/posters/1708666115458.png" group-title="Argentina",ES-PN Premium AR (p)
 http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/1652
-#EXTINF:-1 tvg-id="" tvg-name="T-n-T Sports (AR) (i)" tvg-logo="" group-title="Argentina",T-n-T Sports (AR) (i)
-http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/132736
+
 #EXTINF:-1 tvg-id="" tvg-name="T-n-T SPORTS (AR)(p)" tvg-logo="" group-title="Argentina",T-n-T SPORTS (AR)(p)
 http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/132737
 #EXTINF:-1 tvg-id="" tvg-name="T-n-T Sports SD (AR)(p)" tvg-logo="" group-title="Argentina",T-n-T Sports SD (AR)(p)
 http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/132738
+
 #EXTINF:-1 tvg-id="" tvg-name="TYC Sports Internacional" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/TYC%20SPORTS.png" group-title="Deportes",TYC Sports Internacional
 http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/69636
 #EXTINF:-1 tvg-id="" tvg-name="TyC Sports UHD (i)" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/TYC%20SPORTS.png" group-title="Argentina",TyC Sports UHD (i)
 http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/1651
 
-#EXTINF:-1 tvg-id="" tvg-name="DTV Sports 2 HD (i)" tvg-logo="" group-title="Argentina",DTV Sports 2 HD (i)
-http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/37838
-
 #EXTINF:-1 tvg-id="" tvg-name="DTV Sports 2 (ECU)(p)" tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/DIRECTV%20SPORTS%202.png" group-title="Ecuador.",DTV Sports 2 (ECU)(p)
 http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/55286
-#EXTINF:-1 tvg-id="" tvg-name="DTV Sports 1 (ECU)(p)" tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/DIRECTV%20SPORTS%202.png" group-title="Ecuador.",DTV Sports 1 (ECU)(p)
-http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/65179
 
-#EXTINF:-1 tvg-logo="" group-title="Uruguay",DTV Sports (UY)(p)
-http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/92320
-#EXTINF:-1 tvg-logo="https://budtv-ultra.com/posters/1686583437162.png" group-title="Colombia",DTV Spots (CO)(i)
-http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/37841
-#EXTINF:-1 tvg-logo="https://budtv-ultra.com/posters/1686583437162.png" group-title="Deportes",DTV Sports Plus (i)
+#EXTINF:-1 tvg-logo="https://budtv-ultra.com/posters/1686583437162.png" group-title="Deportes",DTV Sports (i)
 http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/37839
-
+#EXTINF:-1 tvg-id="" tvg-name="DTV Sports (UY)(p)" tvg-logo="" group-title="Uruguay",DTV Sports (p)        uy
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/92320
 #EXTINF:-1 tvg-id="" tvg-name="DTV Sports HD (AR) (i)" tvg-logo="" group-title="Argentina",DTV Sports HD (AR) (i)
 http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/37843
 #EXTINF:-1 tvg-id="20369.stations.xmltv.tvmedia.ca" tvg-name="DTV Sports (ARGENTINA) HD" tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/DIRECTV%20SPORTS.png" group-title="Argentina",DTV Sports (ARGENTINA) HD
@@ -247,18 +235,58 @@ http://23.175.48.252:25461/live/ligatv/eTnAN837tX/204.m3u8
 #EXTINF:-1 group-title="CANALES VARIADOS", TIGO SPORTS HD :TV
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/95.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="EL CHAVO DEL 8 -" tvg-logo="https://panel.budtv-ultra.com/posters/1652142286199.png" group-title="24/7",EL CHAVO DEL 8 -
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/35023
+#EXTINF:-1 tvg-id="" tvg-name="el chavo del 8  24/7" tvg-logo="" group-title="Latinos",el chavo del 8  24/7
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/35022
+#EXTINF:-1 tvg-id="" tvg-name="Digimon 24/7" tvg-logo="https://budtv-ultra.com/posters/1629306602272.png" group-title="24/7",Digimon 24/7
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/12055
+
+#EXTINF:-1 tvg-id="" tvg-name="Chapulin Colorado" tvg-logo="" group-title="24/7",Chapulin Colorado
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/38714
+#EXTINF:-1 tvg-id="" tvg-name="Looney toons 24/7" tvg-logo="https://budtv-ultra.com/posters/1629306831462.png" group-title="24/7",Looney toons 24/7
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/12008
+#EXTINF:-1 tvg-id="" tvg-name="Tom and Jerry Show" tvg-logo="https://budtv-ultra.com/posters/1646277372241.png" group-title="24/7",Tom and Jerry Show
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/154367
+#EXTINF:-1 tvg-id="" tvg-name="Los chicos del barrio" tvg-logo="https://budtv-ultra.com/posters/1646277074466.png" group-title="24/7",Los chicos del barrio
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/155212
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Pokemon" tvg-logo="https://budtv-ultra.com/posters/1643139928306.png" group-title="24/7",24/7 | Pokemon
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/155665
+
+
+#EXTINF:-1 tvg-id="" tvg-name="La ninera 24/7" tvg-logo="https://budtv-ultra.com/posters/1629258033294.png" group-title="24/7",La ninera 24/7
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/12051
+#EXTINF:-1 tvg-id="" tvg-name="La Rosa De Guadalupe (i)" tvg-logo="https://budtv-ultra.com/posters/1629258160391.png" group-title="24/7",La Rosa De Guadalupe (i)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/82427
+
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Accion Classics HD" tvg-logo="" group-title="24/7",Cinema Accion Classics HD
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/38699
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Ciencia Ficcion HD" tvg-logo="" group-title="24/7",Cinema Ciencia Ficcion HD
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/38698
+#EXTINF:-1 tvg-id="" tvg-name="Cinema DC Universe HD" tvg-logo="" group-title="24/7",Cinema DC Universe HD
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/38697
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Disney Family (i)" tvg-logo="" group-title="24/7",Cinema Disney Family (i)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/38702
+#EXTINF:-1 tvg-id="" tvg-name="Happy Madisson HD (i)" tvg-logo="" group-title="24/7",Happy Madisson HD (i)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/38696
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Lego Movies HD" tvg-logo="" group-title="24/7",Cinema Lego Movies HD
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/38695
+
 #EXTINF:-1 tvg-id="" tvg-name="Los Simpson New HD" tvg-logo="" group-title="24/7",Los Simpson New HD
 http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/38706
-http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/11978
-#EXTINF:-1 tvg-id="" tvg-name="Digimon" tvg-logo="https://budtv-ultra.com/posters/1629306602272.png" group-title="24/7",Digimon
-http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/11085
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpsons op2" tvg-logo="https://budtv-ultra.com/posters/1629258248498.png" group-title="24/7",Los Simpsons op2
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/12049
 #EXTINF:-1 tvg-id="" tvg-name="Dragon ball super (p)" tvg-logo="https://panel.budtv-ultra.com/posters/1629306687352.png" group-title="24/7",Dragon ball super (p)
 http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/2338
-#EXTINF:-1 tvg-id="" tvg-name="DTM Pokemon" tvg-logo="https://budtv-ultra.com/posters/1629258361351.png" group-title="24/7",DTM Pokemon
-http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/12066
-#EXTINF:-1 tvg-id="" tvg-name="El Chapulin Colorado" tvg-logo="https://budtv-ultra.com/posters/1629306756215.png" group-title="24/7",El Chapulin Colorado
-http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/2343
 
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 1,I-HD (AR) " tvg-logo="https://budtv-ultra.com/posters/1635232038267.png" group-title="Argentina",FOX Sports 1,I-HD (AR) 
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/37828
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 1HD (AR)." tvg-logo="https://budtv-ultra.com/posters/1635232038267.png" group-title="Argentina",FOX Sports 1HD (AR).
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/37830
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 2 SD (AR)(i)" tvg-logo="https://budtv-ultra.com/posters/1606784389233.png" group-title="Argentina",FOX Sports 2  (AR)(i)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/37829
+#EXTINF:-1 tvg-id="7538.stations.xmltv.tvmedia.ca" tvg-name="FOX SPORTS 3 (AR)" tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/FOX%20SPORTS%203%20SUR.png" group-title="Argentina",FOX SPORTS 3 (AR)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/1642
 
 #EXTINF:-1 tvg-id="1082.stations.xmltv.tvmedia.ca" tvg-name="A24 (AR)(p)" tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/A24.png" group-title="Argentina",A24 (AR)(p)
 http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/1799
@@ -266,44 +294,22 @@ http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/1799
 http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/1794
 #EXTINF:-1 tvg-id="32886.stations.xmltv.tvmedia.ca" tvg-name="C5N (AR)(p)" tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/C5N.png" group-title="Argentina",C5N (AR)(p)
 http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/1800
-#EXTINF:-1 tvg-id="2010.stations.xmltv.tvmedia.ca" tvg-name="Canal-26-HD (AR)(p)" tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/CANAL%2026.png" group-title="Argentina",Canal-26-HD (AR)(p)
-http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/1801
-#EXTINF:-1 tvg-id="176.stations.xmltv.tvmedia.ca" tvg-name="Cronica-HD" tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/CRONCIA.png" group-title="Argentina",Cronica-HD
-http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/1805
 #EXTINF:-1 tvg-id="18861.stations.xmltv.tvmedia.ca" tvg-name="El Trece Internacional" tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/EL%20TRECE.png" group-title="Argentina",El Trece Internacional
 http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/1815
-#EXTINF:-1 tvg-id="2114.stations.xmltv.tvmedia.ca" tvg-name="FOX SPORTS 2 (AR)(p)" tvg-logo="https://budtv-ultra.com/posters/1606784389233.png" group-title="Argentina",FOX SPORTS 2 (AR)(p)
-http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/1639
-#EXTINF:-1 tvg-id="7538.stations.xmltv.tvmedia.ca" tvg-name="FOX SPORTS 3 (AR)" tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/FOX%20SPORTS%203%20SUR.png" group-title="Argentina",FOX SPORTS 3 (AR)
-http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/1642
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 1,I-HD (AR) " tvg-logo="https://budtv-ultra.com/posters/1635232038267.png" group-title="Argentina",FOX Sports 1,I-HD (AR) 
-http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/37828
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 1HD (AR)." tvg-logo="https://budtv-ultra.com/posters/1635232038267.png" group-title="Argentina",FOX Sports 1HD (AR).
-http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/37830
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 2 SD (AR)(i)" tvg-logo="https://budtv-ultra.com/posters/1606784389233.png" group-title="Argentina",FOX Sports 2 SD (AR)(i)
-http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/37829
 #EXTINF:-1 tvg-id="3333.stations.xmltv.tvmedia.ca" tvg-name="Telefe (i)" tvg-logo="https://budtv-ultra.com/posters/1662177895166.png" group-title="Argentina",Telefe (i)
 http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/1793
 #EXTINF:-1 tvg-id="" tvg-name="Telefe (p)" tvg-logo="https://budtv-ultra.com/posters/1662177895166.png" group-title="Argentina",Telefe (p)
 http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/81230
-#EXTINF:-1 tvg-id="" tvg-name="Telefe Inter (p)" tvg-logo="https://budtv-ultra.com/posters/1662177895166.png" group-title="Argentina",Telefe Inter (p)
-http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/81231
 #EXTINF:-1 tvg-id="655.stations.xmltv.tvmedia.ca" tvg-name="TN (AR)(p)" tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/TN%20.png" group-title="Argentina",TN (AR)(p)
 http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/1811
 #EXTINF:-1 tvg-id="1629.stations.xmltv.tvmedia.ca" tvg-name="TV PUBLICA (p)" tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/TV%20PUBLICA.png" group-title="Argentina",TV PUBLICA (p)
 http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/1878
-#EXTINF:-1 tvg-id="" tvg-name="TV Publica HD (i)" tvg-logo="" group-title="Argentina",TV Publica HD (i)
-http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/38573
-#EXTINF:-1 tvg-id="" tvg-name="El Nueve Argentina (i)" tvg-logo="" group-title="Argentina",El Nueve Argentina (i)
-http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/132881
 #EXTINF:-1 tvg-id="" tvg-name="El Nueve Argentina" tvg-logo="" group-title="Argentina",El Nueve Argentina
 http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/132882
-#EXTINF:-1 tvg-id="" tvg-name="ES-PN AR (R)" tvg-logo="https://budtv-ultra.com/posters/1625187931347.png" group-title="Argentina",ES-PN AR (R)
-http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/155905
-#EXTINF:-1 tvg-id="" tvg-name="ES-PN AR (R) op2" tvg-logo="https://budtv-ultra.com/posters/1625187931347.png" group-title="Argentina",ES-PN AR (R) op2
+
+#EXTINF:-1 tvg-id="" tvg-name="ES-PN AR (R) op2" tvg-logo="https://budtv-ultra.com/posters/1625187931347.png" group-title="Argentina",ESPN AR (R)
 http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/155906
-#EXTINF:-1 tvg-id="" tvg-name="ES-PN AR (R) op4" tvg-logo="https://budtv-ultra.com/posters/1625187931347.png" group-title="Argentina",ES-PN AR (R) op4
-http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/155908
+
 
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -1434,3 +1440,164 @@ https://stream-cdn-iad.vaughnsoft.net/play/live_peliculas_mania.flv?android_vs.t
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/980cf3_3d059948bf6b4e25bcd2df9f89bd0ba9~mv2.png/v1/fill/w_560,h_386,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/980cf3_3d059948bf6b4e25bcd2df9f89bd0ba9~mv2.png" tvg-group="PREMIUM",Terror Mania
 https://stream-cdn-iad2.vaughnsoft.net/play/live_terror_mania.flv
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel FHD (i)" tvg-logo="" group-title="Latinos",Discovery Channel FHD (i)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/93948
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD (i)" tvg-logo="https://panel.budtv-ultra.com/posters/1616526988269.png" group-title="Latinos",Discovery Channel HD (i)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/93947
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL SD (p)" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISCOVERY%20CHANNEL.png" group-title="Latinos",DISCOVERY CHANNEL SD (p)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/30321
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Familia (i)" tvg-logo="" group-title="Latinos",Discovery Familia (i)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/93806
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H  (COL) (i)" tvg-logo="https://budtv-ultra.com/posters/1635228776544.png" group-title="Latinos",DISCOVERY H&H  (COL) (i)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/61209
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H (i)" tvg-logo="https://budtv-ultra.com/posters/1635228776544.png" group-title="Latinos",DISCOVERY H&H (i)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/38469
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H HD" tvg-logo="https://budtv-ultra.com/posters/1635228776544.png" group-title="Latinos",DISCOVERY H&H HD
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/30322
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H HD (i)" tvg-logo="https://budtv-ultra.com/posters/1635228776544.png" group-title="Latinos",DISCOVERY H&H HD (i)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/37994
+#EXTINF:-1 tvg-id="discoveryhomeandhealth.mx" tvg-name="DISCOVERY H&H HD (p)" tvg-logo="https://budtv-ultra.com/posters/1635228776544.png" group-title="Latinos",DISCOVERY H&H HD (p)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/3314
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HOME & HEALTH LQ" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISCOVERY%20HOME%20AND%20HEALTH.png" group-title="Canales Menos 3 Mb",DISCOVERY HOME & HEALTH LQ
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/16532
+#EXTINF:-1 tvg-id="" tvg-name="Discovery ID HD E (i)" tvg-logo="https://panel.budtv-ultra.com/posters/1659058659465.png" group-title="Latinos",Discovery ID HD E (i)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/37970
+#EXTINF:-1 tvg-id="" tvg-name="Discovery ID Latino (i)" tvg-logo="" group-title="Latinos",Discovery ID Latino (i)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/38492
+#EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="Discovery ID SD (p)" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISCOVERY%20ID.png" group-title="Latinos",Discovery ID SD (p)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/1785
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids HD (i)" tvg-logo="" group-title="KIDS",Discovery Kids HD (i)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/37976
+#EXTINF:-1 tvg-id="discoverykids.mx" tvg-name="DISCOVERY KIDS SD (p)" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISCOVERY%20KIDS.png" group-title="KIDS",DISCOVERY KIDS SD (p)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/3315
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY LQ" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISCOVERY%20CHANNEL.png" group-title="Canales Menos 3 Mb",DISCOVERY LQ
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/16534
+#EXTINF:-1 tvg-id="discoveryscience.mx" tvg-name="Discovery Science SD" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISCOVERY%20SCIENCE.png" group-title="Latinos",Discovery Science SD
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/1482
+#EXTINF:-1 tvg-id="tlc.mx" tvg-name="DISCOVERY TLC" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISCOVERY%20TLC.png" group-title="Latinos",DISCOVERY TLC
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/3786
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TLC LQ" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISCOVERY%20TLC.png" group-title="Canales Menos 3 Mb",DISCOVERY TLC LQ
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/16536
+#EXTINF:-1 tvg-id="tlc.mx" tvg-name="Discovery TLC SD" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISCOVERY%20TLC.png" group-title="Latinos",Discovery TLC SD
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/2697
+#EXTINF:-1 tvg-id="discoveryturbo.mx" tvg-name="Discovery Turbo" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISCOVERY%20TURBO.png" group-title="Latinos",Discovery Turbo
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/1494
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo Latino (i)" tvg-logo="" group-title="Latinos",Discovery Turbo Latino (i)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/38491
+#EXTINF:-1 tvg-id="discoveryturbo.mx" tvg-name="DISCOVERY TURBO SD (p)" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISCOVERY%20TURBO.png" group-title="Latinos",DISCOVERY TURBO SD (p)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/12208
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD HD" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISCOVERY%20WORLD.png" group-title="Latinos",DISCOVERY WORLD HD
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/30326
+#EXTINF:-1 tvg-id="discoveryworld.mx" tvg-name="DISCOVERY WORLD HD (p)" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISCOVERY%20WORLD.png" group-title="Latinos",DISCOVERY WORLD HD (p)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/3309
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD LQ" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISCOVERY%20WORLD.png" group-title="Canales Menos 3 Mb",DISCOVERY WORLD LQ
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/16538
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD SD" tvg-logo="https://budtv-ultra.com/posters/1616527382547.png" group-title="Latinos",DISCOVERY WORLD SD
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/34389
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISNEY%20CHANNEL.png" group-title="KIDS",DISNEY CHANNEL HD
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/30327
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL LQ" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISNEY%20CHANNEL.png" group-title="Canales Menos 3 Mb",DISNEY CHANNEL LQ
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/16539
+#EXTINF:-1 tvg-id="disneychannel.mx" tvg-name="Disney Channel SD =" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISNEY%20CHANNEL.png" group-title="KIDS",Disney Channel SD =
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/3126
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR HD (p)" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISNEY%20JUNIOR.png" group-title="KIDS",DISNEY JUNIOR HD (p)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/30328
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR LQ" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISNEY%20JUNIOR.png" group-title="Canales Menos 3 Mb",DISNEY JUNIOR LQ
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/16540
+#EXTINF:-1 tvg-id="disneyjunior.mx" tvg-name="Disney Junior SD (p)" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISNEY%20JUNIOR.png" group-title="KIDS",Disney Junior SD (p)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/3127
+#EXTINF:-1 tvg-id="" tvg-name="Distrito Comedia (i)" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISTRITO%20COMEDIA.png" group-title="Latinos",Distrito Comedia (i)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/38472
+#EXTINF:-1 tvg-id="" tvg-name="DISTRITO COMEDIA HD" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISTRITO%20COMEDIA.png" group-title="Latinos",DISTRITO COMEDIA HD
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/30330
+#EXTINF:-1 tvg-id="distritocomedia.mx" tvg-name="DISTRITO COMEDIA HD (p)" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISTRITO%20COMEDIA.png" group-title="Latinos",DISTRITO COMEDIA HD (p)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/3284
+#EXTINF:-1 tvg-id="" tvg-name="DMAX (i)" tvg-logo="https://panel.budtv-ultra.com/posters/1616282066279.png" group-title="Espana",DMAX (i)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/44341
+#EXTINF:-1 tvg-id="" tvg-name="DTV Sports Plus (i)" tvg-logo="" group-title="Deportes",DTV Sports Plus (i)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/37839
+#EXTINF:-1 tvg-id="dwdeutschplus.mx" tvg-name="DW" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DW.png" group-title="Latinos",DW
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/11550
+#EXTINF:-1 tvg-id="" tvg-name="E! ENTERTAINMENT HD" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/E%21.png" group-title="Latinos",E! ENTERTAINMENT HD
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/30360
+#EXTINF:-1 tvg-id="" tvg-name="E! HD" tvg-logo="https://budtv-ultra.com/posters/1635230854224.png" group-title="Latinos",E! HD
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/22694
+#EXTINF:-1 tvg-id="" tvg-name="E! LQ" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/E%21.png" group-title="Canales Menos 3 Mb",E! LQ
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/16543
+#EXTINF:-1 tvg-id="eentertainment.mx" tvg-name="E! SD  (p)" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/E%21.png" group-title="Latinos",E! SD  (p)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/3068
+#EXTINF:-1 tvg-id="discoveryturbo.mx" tvg-name="El Garage SD" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/GARAGE%20TV.png" group-title="Latinos",El Garage SD
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/1601
+#EXTINF:-1 tvg-id="" tvg-name="EL GOURMET HD" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/EL%20GOURMET.png" group-title="Latinos",EL GOURMET HD
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/30331
+#EXTINF:-1 tvg-id="" tvg-name="EL GOURMET HD i" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/EL%20GOURMET.png" group-title="Latinos",EL GOURMET HD i
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/50461
+#EXTINF:-1 tvg-id="" tvg-name="INVESTIGATION DISCOVERY HD" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISCOVERY%20ID.png" group-title="Latinos",INVESTIGATION DISCOVERY HD
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/30355
+#EXTINF:-1 tvg-id="" tvg-name="INVESTIGATION DISCOVERY LQ" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISCOVERY%20ID.png" group-title="Canales Menos 3 Mb",INVESTIGATION DISCOVERY LQ
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/16567
+#EXTINF:-1 tvg-id="" tvg-name="INVESTIGATION HD" tvg-logo="" group-title="canada",INVESTIGATION HD
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/37266
+#EXTINF:-1 tvg-id="" tvg-name="i| HGTV HD" tvg-logo="https://panel.budtv-ultra.com/posters/1669689035429.png" group-title="Latinos",i| HGTV HD
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/88446
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Familia (p)" tvg-logo="https://budtv-ultra.com/posters/1616525788450.png" group-title="Latinos",Discovery Familia (p)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/128636
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATRER HD (p)" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISCOVERY%20THEATER.png" group-title="Latinos",DISCOVERY THEATRER HD (p)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/128637
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER SD (p)" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISCOVERY%20THEATER.png" group-title="Latinos",DISCOVERY THEATER SD (p)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/128638
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science (i)" tvg-logo="" group-title="Latinos",Discovery Science (i)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/128639
+#EXTINF:-1 tvg-id="" tvg-name="HBO Mundi OEM Latino (i)" tvg-logo="" group-title="Latinos",HBO Mundi OEM Latino (i)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/128646
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family Latino HD (i)" tvg-logo="https://panel.budtv-ultra.com/posters/1643162552355.png" group-title="Latinos",HBO Family Latino HD (i)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/128647
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature SD (p)" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/HBO%20SIGNATURE.png" group-title="Latinos",HBO Signature SD (p)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/128649
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family SD (p)" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/HBO%20FAMILY.png" group-title="Latinos",HBO Family SD (p)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/128650
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family OEM Latino (i)" tvg-logo="https://panel.budtv-ultra.com/posters/1643162552355.png" group-title="Latinos",HBO Family OEM Latino (i)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/128651
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY HD (p)" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/HBO%20FAMILY.png" group-title="Latinos",HBO FAMILY HD (p)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/128652
+#EXTINF:-1 tvg-id="" tvg-name="HBO + OEM Latino America (i)" tvg-logo="" group-title="Latinos",HBO + OEM Latino America (i)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/128653
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Universal Crime Hero HD (i)" tvg-logo="" group-title="Latinos",Universal Crime Hero HD (i)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/38846
+#EXTINF:-1 tvg-id="" tvg-name="Universal Premiere Hero HD (i)" tvg-logo="" group-title="Latinos",Universal Premiere Hero HD (i)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/38845
+#EXTINF:-1 tvg-id="" tvg-name="Universal Reality Hero HD (i)" tvg-logo="" group-title="Latinos",Universal Reality Hero HD (i)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/38844
+
+#EXTINF:-1 tvg-id="" tvg-name="Universal Cinema" tvg-logo="" group-title="Latinos",Universal Cinema
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/36358
+#EXTINF:-1 tvg-id="" tvg-name="Universal Cinema HD (i)" tvg-logo="" group-title="Latinos",Universal Cinema HD (i)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/38848
+#EXTINF:-1 tvg-id="" tvg-name="Universal Comedia HD (i)" tvg-logo="" group-title="Latinos",Universal Comedia HD (i)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/38847
+#EXTINF:-1 tvg-id="" tvg-name="Universal Comedy" tvg-logo="" group-title="Latinos",Universal Comedy
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/36354
+#EXTINF:-1 tvg-id="" tvg-name="Universal Crime Este" tvg-logo="" group-title="Latinos",Universal Crime Este
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/36355
+#EXTINF:-1 tvg-id="" tvg-name="Universal Crime Este HD (i)" tvg-logo="" group-title="Latinos",Universal Crime Este HD (i)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/38843
+#EXTINF:-1 tvg-id="" tvg-name="Universal Crime Oeste" tvg-logo="" group-title="Latinos",Universal Crime Oeste
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/36359
+#EXTINF:-1 tvg-id="" tvg-name="Universal Premier Oeste" tvg-logo="" group-title="Latinos",Universal Premier Oeste
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/36360
+#EXTINF:-1 tvg-id="" tvg-name="Universal Premier Oeste HD (i)" tvg-logo="" group-title="Latinos",Universal Premier Oeste HD (i)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/38842
+#EXTINF:-1 tvg-id="" tvg-name="Universal Premiere" tvg-logo="" group-title="Latinos",Universal Premiere
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/36356
+#EXTINF:-1 tvg-id="" tvg-name="Universal Reality" tvg-logo="" group-title="Latinos",Universal Reality
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/36357
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TBS Latino (i)" tvg-logo="" group-title="Latinos",TBS Latino (i)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/128623
