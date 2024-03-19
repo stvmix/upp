@@ -296,16 +296,8 @@ http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/1878
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3356-320x180-000000.jpg" tvg-group="ARGENTINA", TV PUBLICA OP 2
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXPEweowRVHjajSzf-50ZdW-eINGfxVpZb15s-95opujh3MWyTobUBZJ31rdSydd9ZJuE&usqp=CAU" tvg-group="ARGENTINA", TV PUBLICA 23.1
-https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="El Nueve Argentina" tvg-logo="" group-title="Argentina",El Nueve Argentina
 http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/132882
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sv4DKCW/Net-TV-logo.png" tvg-group="ARGENTINA",09 NET TV HD
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/nettv.json
-https://unlimited6-cl.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2026-320x180-000000.jpg" tvg-group="ARGENTINA",09 NET TV ( 720p) en línea
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
@@ -316,7 +308,7 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv-jVa5n7QT1wCKAhOUhgcb-pL32Tf4R7kmml1iK2rvzx2NNTzRwn-kS8liM4zjchE2AI&usqp=CAU" tvg-group="ARGENTINA", El Palomar ( 720p ) nuevo
 https://stream.trixserver.com:3249/live/uv038live.m3u8
 
-#EXTINF:-1 tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2023/08/A-New-Design-2-300x158.png" tvg-group="ARGENTINA", La Voz de Tucumán (480p) nuevo
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image15188438072.jpg" tvg-group="ARGENTINA", La Voz de Tucumán (480p) nuevo
 https://srv3.zcast.com.br/lavozdetucumanhd/lavozdetucumanhd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MetroTV.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX-9uHCpo3v2pHzHEdGUTs5cFC9ySZanOMKu1RDuR20Qi88m90FvT5yW2TaofDthDNWWM&usqp=CAU" tvg-group="ARGENTINA",Metro TV Tuc (720p)
@@ -1750,9 +1742,6 @@ https://stream-cdn-iad.vaughnsoft.net/play/live_peliculas_mania.flv?android_vs.t
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/980cf3_3d059948bf6b4e25bcd2df9f89bd0ba9~mv2.png/v1/fill/w_560,h_386,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/980cf3_3d059948bf6b4e25bcd2df9f89bd0ba9~mv2.png" tvg-group="PREMIUM",Terror Mania
 https://stream-cdn-iad2.vaughnsoft.net/play/live_terror_mania.flv
 
-
-#EXTINF:-1 tvg-id="" tvg-name="Canal Once (p.)" tvg-logo="" group-title="Latinos",Canal Once (p.)
-http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/111510
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Net (i)" tvg-logo="" group-title="Latinos",Cartoon Net (i)
 http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/40841
 #EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK HD" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/CARTOON%20NETWORK.png" group-title="KIDS",CARTOON NETWORK HD
