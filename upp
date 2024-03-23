@@ -9,8 +9,32 @@ http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/132442
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5eVXghNNepwv_1RdjZKf1RgIj_QD4j-zdEQGZyVt6omJ0IF3E1U31TNbdkWaZcJPxbZ0&usqp=CAU" tvg-group="ARGENTINA",Camara 3 Gran Hermano Argentina 24Hrs 
 http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/132443
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: MLS MESSI" tvg-logo="https://cdn.freebiesupply.com/images/large/2x/mls-logo-png-transparent.png" group-title="SVIP MLS Messi",ES: MLS MESSI
-http://400520923797585364.ofd0219.xyz:80/play/vi0105819/@Dk@GPx7vrQ/585364.ts
+#EXTINF:-1,ESPN 7
+http://redima.pro:8880/TISUCR/TISUCR/327
+#EXTINF:-1,ESPN6
+http://redima.pro:8880/TISUCR/TISUCR/329
+#EXTINF:-1,ESPN 5
+http://redima.pro:8880/TISUCR/TISUCR/573
+#EXTINF:-1,ESPN 4
+http://redima.pro:8880/TISUCR/TISUCR/574
+#EXTINF:-1,ESPN 4 II
+http://redima.pro:8880/TISUCR/TISUCR/1037
+#EXTINF:-1,ESPN 3
+http://redima.pro:8880/TISUCR/TISUCR/328
+#EXTINF:-1,ESPN HD
+http://redima.pro:8880/TISUCR/TISUCR/1003
+#EXTINF:-1,ESPN
+http://redima.pro:8880/TISUCR/TISUCR/571
+#EXTINF:-1,DIRECTV SPORTS 2
+http://redima.pro:8880/TISUCR/TISUCR/576
+#EXTINF:-1,TNT SPORT ARG
+http://redima.pro:8880/TISUCR/TISUCR/323
+#EXTINF:-1,TYC SPORT (ARG)
+http://redima.pro:8880/TISUCR/TISUCR/683
+#EXTINF:-1,DEPORTE 3 VS
+http://redima.pro:8880/TISUCR/TISUCR/300
+#EXTINF:-1,Claro Sports 1 HD
+http://redima.pro:8880/TISUCR/TISUCR/992
 
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports Premium MX (p)" tvg-logo="https://panel.budtv-ultra.com/posters/1649093109303.png" group-title="Latinos",Fox Sports Premium MX (p)
 http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/53540
@@ -236,19 +260,16 @@ http://23.175.48.252:25461/live/ligatv/eTnAN837tX/204.m3u8
 #EXTINF:-1 group-title="CANALES VARIADOS", TIGO SPORTS HD :TV
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/95.m3u8
 
-
 #EXTINF:-1 tvg-id="" tvg-name="ES-PN AR (R) op2" tvg-logo="https://budtv-ultra.com/posters/1625187931347.png" group-title="Argentina",ESPN AR (R)
 http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/155906
 
+#EXTINF:-1 tvg-id="Caza y Pesca HD" tvg-name="ES: CAZA Y PESCA FHD" tvg-logo="https://miguia.tv/channels/big_60.png" group-title="ES   MOVISTAR+",ES: CAZA Y PESCA FHD
+http://400520923797321168.ofd0219.xyz:80/play/vi0105819/@Dk@GPx7vrQ/321168.ts
+#EXTINF:-1 tvg-id="Caza y Pesca HD" tvg-name="ES: CAZA Y PESCA HD" tvg-logo="https://miguia.tv/channels/big_60.png" group-title="ES   MOVISTAR+",ES: CAZA Y PESCA HD
+http://400520923797321169.ofd0219.xyz:80/play/vi0105819/@Dk@GPx7vrQ/321169.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="La Rosa De Guadalupe (i)" tvg-logo="https://budtv-ultra.com/posters/1629258160391.png" group-title="24/7",La Rosa De Guadalupe HD (i)
 http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/82427
-
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Accion Classics HD" tvg-logo="" group-title="24/7",Cinema Accion Classics HD
-http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/38699
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Ciencia Ficcion HD" tvg-logo="" group-title="24/7",Cinema Ciencia Ficcion HD
-http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/38698
-#EXTINF:-1 tvg-id="" tvg-name="Happy Madisson HD (i)" tvg-logo="" group-title="24/7",Happy Madisson HD (i)
-http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/38696
 
 #EXTINF:-1 tvg-id="" tvg-name="FOX Sports 1HD (AR)." tvg-logo="https://budtv-ultra.com/posters/1635232038267.png" group-title="Argentina",FOX Sports 1HD (AR).
 http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/37830
@@ -997,18 +1018,19 @@ http://191.97.60.193:10000/play/a02a/index.m3u8
 http://160.20.165.246:8000/play/a01j/index.m3u8
 #EXTINF:-1 tvg-id="USA | ZooMoo" tvg-name="USA | ZooMoo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/120px-ZooMoo_logo.svg.png" group-title="INFANTILES", 132 | ZooMoo
 http://138.59.177.34:8000/play/a00q/index.m3u8
-#EXTINF:-1 tvg-id="USA | Cartoon Network" tvg-name="USA | Cartoon Network" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica-mediano.png" group-title="INFANTILES", 135 | Cartoon Network
-http://168.227.22.18:1935/live/mobile-029/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | Cartoonito" tvg-name="USA | Cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/259px-Cartoonito_-_Logo_2021.svg.png" group-title="INFANTILES", 136 | Cartoonito
-http://138.59.177.34:8000/play/a025/index.m3u8
-#EXTINF:-1 tvg-id="USA | Tooncast" tvg-name="USA | Tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/200px-Tooncast_logo.svg.png" group-title="INFANTILES", 137 | Tooncast
-http://138.59.177.34:8000/play/a04x/index.m3u8
-#EXTINF:-1 tvg-id="USA | BabyFirst" tvg-name="USA | BabyFirst" tvg-logo="https://static.wikia.nocookie.net/babyfirsttv/images/5/56/BabyFirst_Logo_2019.png/revision/latest?cb=20220912114022" group-title="INFANTILES", 139 | BabyFirst
-http://138.59.177.34:8000/play/a03y/index.m3u8
 #EXTINF:-1 tvg-id="USA | BabyTV" tvg-name="USA | BabyTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Babytvv.png/200px-Babytvv.png" group-title="INFANTILES", 140 | BabyTV
 http://168.227.22.18:1935/live/mobile-060/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Semillitas" tvg-name="USA | Semillitas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Semillitas2011.png/245px-Semillitas2011.png" group-title="INFANTILES", 141 | Semillitas
 http://138.59.177.34:8000/play/a028/index.m3u8
+
+#EXTINF:-1,TeenNick
+http://redima.pro:8880/TISUCR/TISUCR/395
+#EXTINF:-1,││KIDS HD││INFANTIL BABY TV HD
+http://redima.pro:8880/TISUCR/TISUCR/389
+#EXTINF:-1,DISCOVERY KIDS HD
+http://redima.pro:8880/TISUCR/TISUCR/393
+#EXTINF:-1,CARTOON NT HD
+http://redima.pro:8880/TISUCR/TISUCR/984
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/09/BabyFirstTV-Logo-2014.png" tvg-group="INFANTILES", Babyfirst | alta definición
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=& buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366- 4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=a65bdf35-f699 -11ea-b899-0242ac110002&userId=&serverSideAds=true
@@ -1043,6 +1065,13 @@ https://stream.skarnetchile.com:3817/live/monitvlive.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA_b9YFXoEweeqnFfpHVF7hrmVfOiuNC_oIZJGAkWGQGzDkW3lmcRXj6IwBIQTFaFeGBQ&usqp=CAU" tvg-group="INFANTILES",  PLANETA TV NIÑOS cl
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?TecnoPlaylist
 
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Accion Classics HD" tvg-logo="" group-title="24/7",Cinema Accion Classics HD
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/38699
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Ciencia Ficcion HD" tvg-logo="" group-title="24/7",Cinema Ciencia Ficcion HD
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/38698
+#EXTINF:-1 tvg-id="" tvg-name="Happy Madisson HD (i)" tvg-logo="" group-title="24/7",Happy Madisson HD (i)
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/38696
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/campeones-sendokai/images/2/23/Clan_Logo.png/revision/latest?cb=20150130205049&path-prefix=es" tvg-group="INFANTILES",clan
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:6_HD.smil/manifest.m3u8
 
@@ -1051,6 +1080,11 @@ https://i.mjh.nz/SamsungTVPlus/ESBC4100003WE.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Boing_TV.png" tvg-group="INFANTILES",Boing
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/manifest.m3u8
+
+#EXTINF:-1 tvg-id="canalpanda.es" tvg-name="ES: CANAL PANDA SD" tvg-logo="http://fanc.tmsimg.com/assets/s53736_ll_h3_aa.png" group-title="ES   MOVISTAR+",ES: CANAL PANDA SD
+http://400520923797321163.ofd0219.xyz:80/play/vi0105819/@Dk@GPx7vrQ/321163.ts
+#EXTINF:-1 tvg-id="canalpanda.es" tvg-name="ES: CANAL PANDA HD" tvg-logo="http://fanc.tmsimg.com/assets/s53736_ll_h3_aa.png" group-title="ES   MOVISTAR+",ES: CANAL PANDA HD
+http://400520923797683907.ofd0219.xyz:80/play/vi0105819/@Dk@GPx7vrQ/683907.ts
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/X50xOp7y_a4/maxresdefault.jpg" tvg-group="INFANTILES", | DM Niños TV
 https://ott1.hdlatam.tv/live/k1DS_tvLKENFSRJVFB/playlist.m3u8
@@ -1152,9 +1186,6 @@ https://i.mjh.nz/SamsungTVPlus/ESBA1400007MR.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Tv-Costa-Chile-en-vivo-Online.png" tvg-group="INFANTILES", TV Costa | CL
 https://tv.clientetvstudio.net:3486/live/costatv1live.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="USA | FMH Family" tvg-name="USA | FMH Family" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-family.jpg" group-title="PELICULAS Y SERIES", 123 | FMH Family
-http://160.20.165.246:8000/play/a01j/index.m3u8
 
 #EXTINF:-1 tvg-id="CL | Animotion" tvg-name="CL | Animotion" tvg-logo="https://pbs.twimg.com/media/FSIH0MSXEAEjBgA?format=jpg&name=240x240" group-title="INFANTILES", 125 | Animotion
 http://191.97.60.193:10000/play/a02n/index.m3u8
@@ -2053,6 +2084,9 @@ https://d1af06j591gh9u.cloudfront.net/VTVHN/e395935fa39597e3997b916a295f23e4.sdp
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/n0kd17r.png",Claro Sports
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 
+#EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/774ac58/2147483647/strip/true/crop/331x186+27+0/resize/1200x675!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F25%2F75%2F665cc6a4466b8569e37508e0fafb%2Flogo7blanco.png" tvg-group="ARGENTINA", - 7.1 Azteca 7
+https://tvazteca-live-cdn-mdstrm-com.akamaized.net/live-stream/609ad46a7a441137107d7a81/publish/media_1500.m3u8?aid=5fea09a071a9945deebf5f7c&pid=mz2kolSNR1nG6e4kZ8TkblHgPrL6b96 N&sid=uUA2BfAtCxRwaNMPqy5eyKEOyPMuccxW&uid=zNI3pkvVCsT2dspkoAjLNGO31OMZxWbr&es=tvazteca-live-cdn-mdstrm-com. akamaized.net&ote=1703947467082&ot=yEqCQ8lT_iw3Yf-7CajfyA&proto=https&pz=us
+
 #EXTINF:-1 group-title="Series" tvg-logo="https://i.imgur.com/8dUS3Ih.png",Novelisima
 https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
 
@@ -2149,7 +2183,6 @@ https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.ibb.co/5vFMTxt/Logotvu.png",TVU
 https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eLres7d.png",Canal 2 San Antonio
 https://unlimited1-us.dps.live/canal2/canal2.smil/playlist.m3u8
 
@@ -2171,348 +2204,133 @@ https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lz2OlKf.png",Contivision
 https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yKb7nfP.png",El Siete
-https://ythls.armelin.one/channel/UC64ZNqX0FQHabP8iIkmnR3A.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cJHP7bU.png",El Nueve
 https://ythls.armelin.one/channel/UC6Qf8b2jcHHilkcr2wpQ9jA.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/512px-Telefe_Rosario_%282018%29.png",Telefe Rosario
 https://ythls.armelin.one/channel/UCPr0HEFKN8wtDIfcPsVB10Q.m3u8
 
-#EXTINF:-1 tvg-id="USA | MTV" tvg-name="USA | MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/125px-MTV-2021.svg.png" group-title="MUSICA Y REALITIES", 264 | MTV
-http://138.59.177.34:8000/play/a02u/index.m3u8
-#EXTINF:-1 tvg-id="USA | MTV 80s" tvg-name="USA | MTV 80s" tvg-logo="https://cdn.sincroguia.tv/uploads/images/5/4/z/xmtv-80.jpg.pagespeed.ic.iXMVwGV__4.jpg" group-title="MUSICA Y REALITIES", 265 | MTV 80s
-http://138.59.177.34:8000/play/a02j/index.m3u8
-#EXTINF:-1 tvg-id="USA | MTV 00s" tvg-name="USA | MTV 00s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_00s_remaster.png/150px-MTV_00s_remaster.png" group-title="MUSICA Y REALITIES", 266 | MTV 00s
-http://138.59.177.34:8000/play/a05r/index.m3u8
-#EXTINF:-1 tvg-id="USA | MTV Hits" tvg-name="USA | MTV Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/125px-MTV_Hits_2021.svg.png" group-title="MUSICA Y REALITIES", 267 | MTV Hits
-http://138.59.177.34:8000/play/a02i/index.m3u8
-#EXTINF:-1 tvg-id="USA | MTV Live" tvg-name="USA | MTV Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/220px-MTV_Live_2021_logo.svg.png" group-title="MUSICA Y REALITIES", 268 | MTV Live
-http://138.59.177.34:8000/play/a05q/index.m3u8
-#EXTINF:-1 tvg-id="USA | HTV" tvg-name="USA | HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/120px-Htv_logo.svg.png" group-title="MUSICA Y REALITIES", 269 | HTV
-http://138.59.177.34:8000/play/a04c/index.m3u8
-
-
-#EXTINF:-1,TELEAMAZONAS 2 redima
-http://redima.pro:8880/TISUCR/TISUCR/682
-#EXTINF:-1,HBO POP
-http://redima.pro:8880/TISUCR/TISUCR/333
-#EXTINF:-1,HBO
-http://redima.pro:8880/TISUCR/TISUCR/334
-#EXTINF:-1,HBO 2
-http://redima.pro:8880/TISUCR/TISUCR/335
-#EXTINF:-1,HBO FAMILY
-http://redima.pro:8880/TISUCR/TISUCR/336
-#EXTINF:-1,HBO HD
-http://redima.pro:8880/TISUCR/TISUCR/337
-#EXTINF:-1,PARAMOUT
-http://redima.pro:8880/TISUCR/TISUCR/338
-#EXTINF:-1,GOLDE 2
-http://redima.pro:8880/TISUCR/TISUCR/339
-#EXTINF:-1,DISNEY CHANNEL
-http://redima.pro:8880/TISUCR/TISUCR/340
-#EXTINF:-1,START FUN
-http://redima.pro:8880/TISUCR/TISUCR/341
-#EXTINF:-1,STAR CHANNEL
-http://redima.pro:8880/TISUCR/TISUCR/342
-#EXTINF:-1,STAR CHANNEL
-http://redima.pro:8880/TISUCR/TISUCR/343
-#EXTINF:-1,AXN
-http://redima.pro:8880/TISUCR/TISUCR/350
-#EXTINF:-1,UNIVERSAL CINEMA HD
-http://redima.pro:8880/TISUCR/TISUCR/351
-#EXTINF:-1,UNIVERSAL
-http://redima.pro:8880/TISUCR/TISUCR/354
+#EXTINF:-1,HOLA TV HD
+http://redima.pro:8880/TISUCR/TISUCR/396
 #EXTINF:-1,VENEVISION
 http://redima.pro:8880/TISUCR/TISUCR/355
-#EXTINF:-1,SONY
-http://redima.pro:8880/TISUCR/TISUCR/356
-#EXTINF:-1,A&E
-http://redima.pro:8880/TISUCR/TISUCR/357
+#EXTINF:-1,VENEVISION HD
+http://redima.pro:8880/TISUCR/TISUCR/388
 #EXTINF:-1,RCN
 http://redima.pro:8880/TISUCR/TISUCR/359
-#EXTINF:-1,STAR LIFE
-http://redima.pro:8880/TISUCR/TISUCR/360
+#EXTINF:-1,PARAMOUT
+http://redima.pro:8880/TISUCR/TISUCR/338
+#EXTINF:-1,GOLDE premier 2
+http://redima.pro:8880/TISUCR/TISUCR/339
+#EXTINF:-1,GOLDEN
+http://redima.pro:8880/TISUCR/TISUCR/372
+#EXTINF:-1,SONY MOVIES
+http://redima.pro:8880/TISUCR/TISUCR/356
+#EXTINF:-1,universal cinema redima
+http://redima.pro:8880/TISUCR/TISUCR/334
+#EXTINF:-1,UNIVERSAL CINEMA HD
+http://redima.pro:8880/TISUCR/TISUCR/351
+#EXTINF:-1,UNIVERSAL COMEDY HD 
+http://redima.pro:8880/TISUCR/TISUCR/354
+#EXTINF:-1,UNIVERSAL REALITY
+http://redima.pro:8880/TISUCR/TISUCR/1035
+#EXTINF:-1,UNIVERSAL CRIME HD
+http://redima.pro:8880/TISUCR/TISUCR/1033
+#EXTINF:-1,UNIVERSAL PREMIERE 
+http://redima.pro:8880/TISUCR/TISUCR/1034
+#EXTINF:-1,Studio Universal HD
+http://redima.pro:8880/TISUCR/TISUCR/1025
 #EXTINF:-1,WARNER CHANNEL
 http://redima.pro:8880/TISUCR/TISUCR/361
 #EXTINF:-1,TNT SERIES
 http://redima.pro:8880/TISUCR/TISUCR/362
-#EXTINF:-1,TNT SERIES
-http://redima.pro:8880/TISUCR/TISUCR/363
 #EXTINF:-1,TNT
 http://redima.pro:8880/TISUCR/TISUCR/364
-#EXTINF:-1,TNT
-http://redima.pro:8880/TISUCR/TISUCR/365
-#EXTINF:-1,FXM
-http://redima.pro:8880/TISUCR/TISUCR/366
-#EXTINF:-1,FXM
-http://redima.pro:8880/TISUCR/TISUCR/367
 #EXTINF:-1,CINECANAL
 http://redima.pro:8880/TISUCR/TISUCR/368
 #EXTINF:-1,MORVIDO TV
 http://redima.pro:8880/TISUCR/TISUCR/371
-#EXTINF:-1,GOLDEN
-http://redima.pro:8880/TISUCR/TISUCR/372
-#EXTINF:-1,GOLDEN
-http://redima.pro:8880/TISUCR/TISUCR/373
-#EXTINF:-1,GOLDEN EDGE
-http://redima.pro:8880/TISUCR/TISUCR/374
-#EXTINF:-1,GOLDEN EDGE
-http://redima.pro:8880/TISUCR/TISUCR/375
-#EXTINF:-1,DPELICULAS
-http://redima.pro:8880/TISUCR/TISUCR/376
-#EXTINF:-1,LA TELE
-http://redima.pro:8880/TISUCR/TISUCR/377
-#EXTINF:-1,SPACE
-http://redima.pro:8880/TISUCR/TISUCR/378
 #EXTINF:-1,MULTIPREMIER
 http://redima.pro:8880/TISUCR/TISUCR/379
-#EXTINF:-1,MULTIPREMIER
-http://redima.pro:8880/TISUCR/TISUCR/380
-#EXTINF:-1,MULTICINE
+#EXTINF:-1,MULTICINE MC
 http://redima.pro:8880/TISUCR/TISUCR/381
 #EXTINF:-1,AMC
 http://redima.pro:8880/TISUCR/TISUCR/384
-#EXTINF:-1,CINEMAX
-http://redima.pro:8880/TISUCR/TISUCR/385
-#EXTINF:-1,HBO2 HD
-http://redima.pro:8880/TISUCR/TISUCR/386
-#EXTINF:-1,CARTOON NETWORK
-http://redima.pro:8880/TISUCR/TISUCR/388
-#EXTINF:-1,││KIDS HD││INFANTIL BABY TV HD
-http://redima.pro:8880/TISUCR/TISUCR/389
-#EXTINF:-1,BABY TV
-http://redima.pro:8880/TISUCR/TISUCR/390
-#EXTINF:-1,DISCOVERY SCIENCE 
-http://redima.pro:8880/TISUCR/TISUCR/391
-#EXTINF:-1,││KIDS││ NICK JR HD
-http://redima.pro:8880/TISUCR/TISUCR/392
-#EXTINF:-1,DISCOVERY KIDS HD
-http://redima.pro:8880/TISUCR/TISUCR/393
-#EXTINF:-1,TeenNick
-http://redima.pro:8880/TISUCR/TISUCR/395
-#EXTINF:-1,HOLA TV HD
-http://redima.pro:8880/TISUCR/TISUCR/396
-#EXTINF:-1,CARTOONITO
-http://redima.pro:8880/TISUCR/TISUCR/397
-#EXTINF:-1,DISCOVERY KIDS
-http://redima.pro:8880/TISUCR/TISUCR/398
-#EXTINF:-1,DISCOVERY KIDS
-http://redima.pro:8880/TISUCR/TISUCR/399
-#EXTINF:-1,PASIONES
-http://redima.pro:8880/TISUCR/TISUCR/401
-#EXTINF:-1,PASIONES
+
+#EXTINF:-1,RCN 
+http://redima.pro:8880/TISUCR/TISUCR/414
+#EXTINF:-1,CARACOL INTERNACIONAL
+http://redima.pro:8880/TISUCR/TISUCR/423
+#EXTINF:-1,PASIONES HD
 http://redima.pro:8880/TISUCR/TISUCR/402
 #EXTINF:-1,TELENOVELAS
 http://redima.pro:8880/TISUCR/TISUCR/403
-#EXTINF:-1,TELENOVELAS
-http://redima.pro:8880/TISUCR/TISUCR/404
 #EXTINF:-1,CANAL DE LAS ESTRELLAS
 http://redima.pro:8880/TISUCR/TISUCR/405
-#EXTINF:-1,CANAL DE LAS ESTRELLAS
+#EXTINF:-1,CANAL DE LAS ESTRELLAS SD
 http://redima.pro:8880/TISUCR/TISUCR/406
 #EXTINF:-1,TELEMUNDO
 http://redima.pro:8880/TISUCR/TISUCR/407
-#EXTINF:-1,TELEMUNDO
-http://redima.pro:8880/TISUCR/TISUCR/408
-#EXTINF:-1,E!
-http://redima.pro:8880/TISUCR/TISUCR/409
-#EXTINF:-1,HISTORY CHANNEL
+
+#EXTINF:-1,Telemundo HD
+http://redima.pro:8880/TISUCR/TISUCR/1042
+
+#EXTINF:-1,HISTORY CHANNEL HD
 http://redima.pro:8880/TISUCR/TISUCR/410
 #EXTINF:-1,││CULT HD││ H2
 http://redima.pro:8880/TISUCR/TISUCR/411
 #EXTINF:-1,HISTORY 
 http://redima.pro:8880/TISUCR/TISUCR/413
-#EXTINF:-1,RCN NOVELA HD
-http://redima.pro:8880/TISUCR/TISUCR/414
-#EXTINF:-1,TLNOVELAS
-http://redima.pro:8880/TISUCR/TISUCR/415
-#EXTINF:-1,ANTENA 3
-http://redima.pro:8880/TISUCR/TISUCR/418
-#EXTINF:-1,CNN
-http://redima.pro:8880/TISUCR/TISUCR/419
-#EXTINF:-1,CARACOL INTERNACIONAL
-http://redima.pro:8880/TISUCR/TISUCR/423
-#EXTINF:-1,DISCOVERY ID
-http://redima.pro:8880/TISUCR/TISUCR/424
 #EXTINF:-1,DISCOVERY ID
 http://redima.pro:8880/TISUCR/TISUCR/425
 #EXTINF:-1,DISCOVERY CHANNEL
 http://redima.pro:8880/TISUCR/TISUCR/426
-#EXTINF:-1,DISCOVERY CHANNEL
-http://redima.pro:8880/TISUCR/TISUCR/427
-#EXTINF:-1,TV AGRO
-http://redima.pro:8880/TISUCR/TISUCR/429
-#EXTINF:-1,ANIMAL PLANET
-http://redima.pro:8880/TISUCR/TISUCR/430
-#EXTINF:-1,ANIMAL PLANET
-http://redima.pro:8880/TISUCR/TISUCR/431
-#EXTINF:-1,H&H DISCOVERY
-http://redima.pro:8880/TISUCR/TISUCR/434
-#EXTINF:-1,H&H DISCOVERY
-http://redima.pro:8880/TISUCR/TISUCR/435
 #EXTINF:-1,DISCOVERY WORLD
 http://redima.pro:8880/TISUCR/TISUCR/436
 #EXTINF:-1,NAT GEO
 http://redima.pro:8880/TISUCR/TISUCR/438
-#EXTINF:-1,NAT GEO
-http://redima.pro:8880/TISUCR/TISUCR/439
+
 #EXTINF:-1,RUMBA TV
 http://redima.pro:8880/TISUCR/TISUCR/440
-#EXTINF:-1,RUMBA TV
-http://redima.pro:8880/TISUCR/TISUCR/441
 #EXTINF:-1,TELESISTEMA 11
 http://redima.pro:8880/TISUCR/TISUCR/442
-#EXTINF:-1,RT
-http://redima.pro:8880/TISUCR/TISUCR/443
-#EXTINF:-1,UNIVERSAL CINEMA HD
-http://redima.pro:8880/TISUCR/TISUCR/445
-#EXTINF:-1,TELESUR
+#EXTINF:-1,TELE
 http://redima.pro:8880/TISUCR/TISUCR/446
-#EXTINF:-1,DISTRITO COMEDIA
+#EXTINF:-1,DISTRITO COMEDIA HD
 http://redima.pro:8880/TISUCR/TISUCR/587
-#EXTINF:-1,TYC SPORT (ARG)
-http://redima.pro:8880/TISUCR/TISUCR/683
-#EXTINF:-1,HBO XTREAM
-http://redima.pro:8880/TISUCR/TISUCR/681
-#EXTINF:-1,UNIVERSAL CRIME HD
-http://redima.pro:8880/TISUCR/TISUCR/1033
-#EXTINF:-1,Studio Universal HD
-http://redima.pro:8880/TISUCR/TISUCR/1025
-#EXTINF:-1,DIRECTV SPORT + EC
-http://redima.pro:8880/TISUCR/TISUCR/685
+
 #EXTINF:-1,MTV HD
 http://redima.pro:8880/TISUCR/TISUCR/1015
 #EXTINF:-1,ECUAVISA
 http://redima.pro:8880/TISUCR/TISUCR/447
-#EXTINF:-1,ECUAVISA 2
-http://redima.pro:8880/TISUCR/TISUCR/448
 #EXTINF:-1,RTS
 http://redima.pro:8880/TISUCR/TISUCR/449
-#EXTINF:-1,RTS 2
-http://redima.pro:8880/TISUCR/TISUCR/450
 #EXTINF:-1,TELEAMAZONAS 1
 http://redima.pro:8880/TISUCR/TISUCR/451
-#EXTINF:-1,TELEAMAZONAS 2
-http://redima.pro:8880/TISUCR/TISUCR/452
 #EXTINF:-1,TVC
 http://redima.pro:8880/TISUCR/TISUCR/453
-#EXTINF:-1,TVC 2
-http://redima.pro:8880/TISUCR/TISUCR/454
-#EXTINF:-1,ECUADOR TV
-http://redima.pro:8880/TISUCR/TISUCR/455
 #EXTINF:-1,ECUADOR TV
 http://redima.pro:8880/TISUCR/TISUCR/456
 #EXTINF:-1,ECUAVISA INTERNACIONAL
 http://redima.pro:8880/TISUCR/TISUCR/457
-#EXTINF:-1,ECUAVISA INTERNACIONAL
-http://redima.pro:8880/TISUCR/TISUCR/458
-#EXTINF:-1,RTU
-http://redima.pro:8880/TISUCR/TISUCR/459
-#EXTINF:-1,RTU
-http://redima.pro:8880/TISUCR/TISUCR/460
 #EXTINF:-1,TC
 http://redima.pro:8880/TISUCR/TISUCR/461
-#EXTINF:-1,TC 2
-http://redima.pro:8880/TISUCR/TISUCR/462
 #EXTINF:-1,GAMA TV
 http://redima.pro:8880/TISUCR/TISUCR/463
-#EXTINF:-1,GAMA TV 2
-http://redima.pro:8880/TISUCR/TISUCR/464
 #EXTINF:-1,OROMAR
 http://redima.pro:8880/TISUCR/TISUCR/465
-#EXTINF:-1,OROMAR
-http://redima.pro:8880/TISUCR/TISUCR/466
-#EXTINF:-1,ONDA TV
-http://redima.pro:8880/TISUCR/TISUCR/554
-#EXTINF:-1,EVENTOS DEPORTIVOS
-http://redima.pro:8880/TISUCR/TISUCR/302
-#EXTINF:-1,DEPORTE 2
-http://redima.pro:8880/TISUCR/TISUCR/301
-#EXTINF:-1,DEPORTE 3
-http://redima.pro:8880/TISUCR/TISUCR/300
-#EXTINF:-1,GOL TV ECU
-http://redima.pro:8880/TISUCR/TISUCR/569
-#EXTINF:-1,GOL TV 
-http://redima.pro:8880/TISUCR/TISUCR/570
-#EXTINF:-1,ESPN
-http://redima.pro:8880/TISUCR/TISUCR/571
-#EXTINF:-1,ESPN 3
-http://redima.pro:8880/TISUCR/TISUCR/573
-#EXTINF:-1,ESPN 4
-http://redima.pro:8880/TISUCR/TISUCR/574
-#EXTINF:-1,DIRECTV SPORTS 2
-http://redima.pro:8880/TISUCR/TISUCR/575
-#EXTINF:-1,DISCOVERY_TURBO_HD_MX
-http://redima.pro:8880/TISUCR/TISUCR/579
-#EXTINF:-1,DAZN LA LIGA HD
-http://redima.pro:8880/TISUCR/TISUCR/578
-#EXTINF:-1,DIRECTV SPORT
-http://redima.pro:8880/TISUCR/TISUCR/576
-#EXTINF:-1,TNT SPORT 
-http://redima.pro:8880/TISUCR/TISUCR/323
-#EXTINF:-1,ESPN
-http://redima.pro:8880/TISUCR/TISUCR/317
-#EXTINF:-1,WIN SPORTS  
-http://redima.pro:8880/TISUCR/TISUCR/316
-#EXTINF:-1,ESPN 2
-http://redima.pro:8880/TISUCR/TISUCR/312
-#EXTINF:-1,CANAL DEL FUTBOL
-http://redima.pro:8880/TISUCR/TISUCR/311
-#EXTINF:-1,ESPN 5
-http://redima.pro:8880/TISUCR/TISUCR/326
-#EXTINF:-1,ESPN 7
-http://redima.pro:8880/TISUCR/TISUCR/327
-#EXTINF:-1,ESPN 2
-http://redima.pro:8880/TISUCR/TISUCR/328
-#EXTINF:-1,ESPN6
-http://redima.pro:8880/TISUCR/TISUCR/329
-#EXTINF:-1,ESPN 6
-http://redima.pro:8880/TISUCR/TISUCR/330
+
+
 #EXTINF:-1,MTV HD
 http://redima.pro:8880/TISUCR/TISUCR/978
-#EXTINF:-1,WARNER HD
-http://redima.pro:8880/TISUCR/TISUCR/1037
 #EXTINF:-1,Film & arts HD
 http://redima.pro:8880/TISUCR/TISUCR/1036
-#EXTINF:-1,UNIVERSAL REALITY
-http://redima.pro:8880/TISUCR/TISUCR/1035
-#EXTINF:-1,UNIVERSAL COMEDY 
-http://redima.pro:8880/TISUCR/TISUCR/1032
+
 #EXTINF:-1,Comedy Central HD
 http://redima.pro:8880/TISUCR/TISUCR/994
-#EXTINF:-1,ESPN HD
-http://redima.pro:8880/TISUCR/TISUCR/1003
-#EXTINF:-1,ESPN7
-http://redima.pro:8880/TISUCR/TISUCR/1005
-#EXTINF:-1,Canal 10 - ESA
-http://redima.pro:8880/TISUCR/TISUCR/986
-#EXTINF:-1,Claro Sports 2 HD
-http://redima.pro:8880/TISUCR/TISUCR/993
-#EXTINF:-1,CARTOON NT HD
-http://redima.pro:8880/TISUCR/TISUCR/984
-#EXTINF:-1,Canal 10 HD
-http://redima.pro:8880/TISUCR/TISUCR/987
-#EXTINF:-1,Canal 10 HD - ESA
-http://redima.pro:8880/TISUCR/TISUCR/988
+
+
 #EXTINF:-1,Canal 4 HD ESA
 http://redima.pro:8880/TISUCR/TISUCR/989
 #EXTINF:-1,Canal Claro HD
 http://redima.pro:8880/TISUCR/TISUCR/991
-#EXTINF:-1,Claro Sports 1 HD
-http://redima.pro:8880/TISUCR/TISUCR/992
-#EXTINF:-1,HBO Family HD
-http://redima.pro:8880/TISUCR/TISUCR/1011
-#EXTINF:-1,Telemundo HD
-http://redima.pro:8880/TISUCR/TISUCR/1042
-#EXTINF:-1,UNIVERSAL PREMIERE 
-http://redima.pro:8880/TISUCR/TISUCR/1034
-#EXTINF:-1,HBO Plus HD
-http://redima.pro:8880/TISUCR/TISUCR/1039
-#EXTINF:-1,TD+2 HD CR
-http://redima.pro:8880/TISUCR/TISUCR/1026
-#EXTINF:-1,TD+HD CR
-http://redima.pro:8880/TISUCR/TISUCR/1027
-#EXTINF:-1,History HD
-http://redima.pro:8880/TISUCR/TISUCR/1013
