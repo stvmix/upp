@@ -1120,6 +1120,9 @@ http://redima.pro:8880/TISUCR/TISUCR/984
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/09/BabyFirstTV-Logo-2014.png" tvg-group="INFANTILES", Babyfirst | alta definición
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=& buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366- 4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=a65bdf35-f699 -11ea-b899-0242ac110002&userId=&serverSideAds=true
 
+#EXTINF:-1,24/7 Peppa Pig (e)(SD) fuxxi
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37829
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EaYYKb7.png" tvg-group="INFANTILES",Planeta Junior TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4311&checkedby:iptvcat.com
 
@@ -1174,10 +1177,17 @@ http://400520923797683907.ofd0219.xyz:80/play/vi0105819/@Dk@GPx7vrQ/683907.ts
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/X50xOp7y_a4/maxresdefault.jpg" tvg-group="INFANTILES", | DM Niños TV
 https://ott1.hdlatam.tv/live/k1DS_tvLKENFSRJVFB/playlist.m3u8
 
+#EXTINF:-1,24/7 El Chapulin Colorado (e)(SD)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37765
+#EXTINF:-1,24/7 El Chavo del 8 (e)(SD) fuxxi
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37746
+#EXTINF:-1,24/7 El Chavo del 8 HQ (e)(SD) fuxxi
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37761
+
 #EXTINF:-1 tvg-logo="https://serenotv.com/cargas/2023/03/Logo-De-Dreiko-Nuevo-1-300x300.png" tvg-group="INFANTILES",Dreiko TV OK
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1363736016155258880/LCGweMBi.jpg" tvg-group="INFANTILES", EL CHAVO 24/7
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1363736016155258880/LCGweMBi.jpg" tvg-group="INFANTILES", EL CHAVO 24/7 budtv
 http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/35022
 
 #EXTINF:-1 tvg-logo="https://www.elheraldo.co/sites/default/files/articulo/2023/07/28/los_simpson_4.jpg" group-title="24/7",Los Simpson New HD
@@ -1219,13 +1229,40 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8?PlaylistM3UC
 #EXTINF:-1 tvg-logo="https://budtv-ultra.com/posters/1643139928306.png" group-title="24/7",24/7 | Pokemon
 http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/155665
 
+#EXTINF:-1,24/7 Pokemon (e)(SD)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37824
+#EXTINF:-1,24/7 Pokemon Películas (e)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37922
+#EXTINF:-1,24/7 Digimon (e)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37814
+
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/841b33153070329.Y3JvcCwxMDgwLDg0NCwwLDExNw.jpg" tvg-group="INFANTILES", DB VariedTV
 https://cloud5.streaminglivehd.com:3874/hybrid/play.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://www.pngmart.com/files/3/Dragon-Ball-Logo-PNG-Photos.png" group-title="24/7",Dragon ball (i)
+#EXTINF:-1 tvg-logo="https://www.pngmart.com/files/3/Dragon-Ball-Logo-PNG-Photos.png" group-title="24/7",Dragon ball (i) budtv
 http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/38702
-#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/181-1814830_la-historia-del-anime-se-inicia-6-meses.png" group-title="24/7",Dragon ball super (p)
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/181-1814830_la-historia-del-anime-se-inicia-6-meses.png" group-title="24/7",Dragon ball super (p) budtv
 http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/2338
+
+#EXTINF:-1,24/7 Dragon Ball (e)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37816
+#EXTINF:-1,24/7 Dragon Ball GT (e)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37831
+#EXTINF:-1,24/7 Dragon Ball Peliculas (e)(1080)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/119556
+#EXTINF:-1,24/7 Dragon Ball Super (e)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37841
+#EXTINF:-1,24/7 Dragon Ball Z - Saga Cell (e)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37826
+#EXTINF:-1,24/7 Dragon Ball Z - Saga de Freezer (e)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37812
+#EXTINF:-1,24/7 Dragon Ball Z - Saga Majin Boo (e)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37813
+
+#EXTINF:-1,24/7 Caballeros del Zodiaco (720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37815
+#EXTINF:-1,24/7 Caballeros del Zodiaco Hades & Alma de oro (e)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37845
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUCfHKPe5iYriyYKfjkO6127CPuQ6a3RaS6HiG1PidjJIzinO_UpNGZ4ilgHlYkbKtlao&usqp=CAU" tvg-group="INFANTILES", BITME 401
 https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
@@ -1238,6 +1275,15 @@ https://d16k620tapvw9n.cloudfront.net/out/v1/8e3062c10bb341feb7ee363c320e06af/in
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/6/6d/Loco2006.png/revision/latest?cb=20230129233817" tvg-group="INFANTILES", Locomotion | AR
 http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,24/7 Alf (e)(SD)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37766
+
+#EXTINF:-1,24/7 Tom and Jerry The Classic  (e)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37859
+
+#EXTINF:-1,24/7 Garfield y sus amigos (e)(SD)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/58032
 
 #EXTINF:-1 tvg-id="1551" tvg-name="24-7 TV" tvg-logo="https://cdn.m3u.cl/logo/1551_24_7_TV.png", 24-7 TV ✪ | AR
 https://stmv5.voxtvhd.com.br/247tv/247tv/playlist.m3u8?PlaylistM3UCL
@@ -1262,6 +1308,34 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1qdPq58.png" tvg-group="INFANTILES", Naruto| alta definición
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture= &buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366- 4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=00e032f5-f693 -11ea-b899-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1,24/7 Naruto
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/225765
+#EXTINF:-1,24/7 Naruto Shippuden (e)()
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37811
+#EXTINF:-1,24/7 Super Campeones (e)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37828
+#EXTINF:-1,24/7 Super Campeones 2002 (e)(SD)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37817
+#EXTINF:-1,24/7 Ranma ½ (e)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/38449
+#EXTINF:-1,24/7 Death Note (e)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37821
+
+#EXTINF:0,Anime (España) (🇪🇸)
+https://is.gd/RtJk2v
+#EXTINF:0,Anime (Mexico) (🇲🇽)
+https://is.gd/3DnWNL
+#EXTINF:0,Anime Accion (España) (🇪🇸)
+https://is.gd/LvmUPV
+#EXTINF:0,Avatar (España) (🇪🇸)
+https://is.gd/faqxKp
+#EXTINF:0,Death Note (España) (🇪🇸)
+https://is.gd/2zGwG1
+#EXTINF:0,AZTV Anime Zone OK
+http://animezonetv.net/hls/stream.m3u8
+#EXTINF:0,Boing (España) (🇪🇸)
+https://is.gd/OIrOEi
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yvShCF9.png" tvg-group="INFANTILES", Yu-Gi-Oh! | alta definición
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId =canal&embedPartner= rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
@@ -1337,6 +1411,256 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9996533c9de30007
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo8W4o_NdxpZBJT4g4-dHYfxWs2iIJQ0p_dneUuK0d6WpR6Pq0gBt_GTnEx09hzaFTrT8&usqp=CAU" tvg-group="INFANTILES", TALTAL TV HD
 https://cageu.bozztv.com/ssh101/ssh101/taltal/playlist.m3u8
+
+#EXTINF:-1,24/7 American Crime Story (e)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37795
+
+#EXTINF:-1,24/7 Animaniacs (e)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37879
+
+#EXTINF:-1,24/7 Avatar La Leyenda de Aang (e)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/38448
+
+#EXTINF:-1,24/7 Aventura (e)(1080)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37931
+#EXTINF:-1,24/7 Aventura 2022 (e)(1080)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/225774
+
+#EXTINF:-1,24/7 Baron Rojo (e) (720) (e)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37839
+#EXTINF:-1,24/7 Basado en Hechos Reales (e)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37920
+#EXTINF:-1,24/7 Batman (e)(1080)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/60048
+
+#EXTINF:-1,24/7 Ben 10 (e)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37819
+#EXTINF:-1,24/7 Ben 10 Alien Force (e)(SD)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37867
+#EXTINF:-1,24/7 Bruce Lee (e)(1080)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37763
+
+#EXTINF:-1,24/7 CienciaFiccion (e)(1080)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37929
+
+#EXTINF:-1,24/7 Cine Belico (e)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/40268
+
+#EXTINF:-1,24/7 Cine Biografico (e)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/40269
+
+#EXTINF:-1,24/7 Cine Catastrofico (e)(1080)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/40270
+#EXTINF:-1,24/7 Cine Latino 2022 (e)(1080)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/225784
+#EXTINF:-1,24/7 Comedia 2022 (e)(1080)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/225776
+
+#EXTINF:-1,24/7 Comedia Sangrienta (e)(1080)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/40279
+
+#EXTINF:-1,24/7 DC Comics Peliculas (e)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37871
+
+#EXTINF:-1,24/7 DC Comics Series (e)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37874
+
+#EXTINF:-1,24/7 Dragon Quest Las aventuras de Fly (e)(SD)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/38319
+
+#EXTINF:-1,24/7 Drake y Josh  (e)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37768
+
+#EXTINF:-1,24/7 El nuevo show del Pájaro Loco (e)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37852
+
+#EXTINF:-1,24/7 El Principe del Rap (e)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37799
+#EXTINF:-1,24/7 El Zorro (e)(SD)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37782
+
+#EXTINF:-1,24/7 En Busca del Valle Encantado (e) (1080)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37846
+#EXTINF:-1,24/7 Erase Una Vez (e)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/62474
+
+#EXTINF:-1,24/7 Estrenos 2022 (e)(1080)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/225786
+
+#EXTINF:-1,24/7 Estrenos Accion (e)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/144548
+#EXTINF:-1,24/7 Estrenos Animacion (e)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/144549
+#EXTINF:-1,24/7 Estrenos Aventura (720)(e)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/144550
+#EXTINF:-1,24/7 Estrenos CienciaFiccion (e)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/144551
+#EXTINF:-1,24/7 Estrenos Comedia (e)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/144552
+#EXTINF:-1,24/7 Estrenos Disney (e)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/144553
+#EXTINF:-1,24/7 Estrenos Familiar (e)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/144554
+#EXTINF:-1,24/7 Fantasia (e)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37921
+
+#EXTINF:-1,24/7 Fear the Walking Dead
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/61987
+#EXTINF:-1,24/7 Flash (e)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37747
+#EXTINF:-1,24/7 Friends (e)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37800
+
+#EXTINF:-1,24/7 Harry Potter (e) (1080) 
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37755
+#EXTINF:-1,24/7 HBO Family(M)(1080)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/2106
+#EXTINF:-1,24/7 HBO Plus(M)(1080)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/2107
+#EXTINF:-1,24/7 HBO Signature (M)(1080)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/2108
+
+#EXTINF:-1,24/7 Hora de Aventura (e)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGya
+#EXTINF:-1,24/7 iCarly  (e)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37769
+
+#EXTINF:-1,24/7 Infantil (e)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37919
+
+#EXTINF:-1,24/7 Inspector Gadget (e)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37878
+#EXTINF:-1,24/7 Inuyasha (e)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/38496
+
+#EXTINF:-1,24/7 Jackie Chan (e)(HQ)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/54827
+#EXTINF:-1,24/7 Jimmy Neutron (e)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37887
+#EXTINF:-1,24/7 Juego de Tronos (e)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37751
+
+#EXTINF:-1,24/7 La Casa de Mickey Mouse (e)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37834
+
+#EXTINF:-1,24/7 La Casa de Papel (e)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37774
+#EXTINF:-1,24/7 La Familia Ingalls (e)(SD)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37809
+
+#EXTINF:-1,24/7 La Familia Monster (e)(SD)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37787
+
+
+#EXTINF:-1,24/7 La Pantera Rosa (e)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/38447
+
+#EXTINF:-1,24/7 La Vaca y el Pollito (e)(SD)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/63333
+
+#EXTINF:-1,24/7 Looney Tunes (e)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37848
+
+#EXTINF:-1,24/7 Los Años Maravillosos (e)(SD)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37760
+
+#EXTINF:-1,24/7 Los Expedientes Secretos X (e)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37796
+
+#EXTINF:-1,24/7 Los Locos Addams  (e)(SD)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37786
+
+#EXTINF:-1,24/7 Los Magnificos (e)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37805
+
+#EXTINF:-1,24/7 Los Picapiedras (e)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37854
+
+#EXTINF:-1,24/7 Los Simpsons S01 a S20 (e)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37767
+#EXTINF:-1,24/7 Los Simpsons S20 a S30  (e)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37758
+#EXTINF:-1,24/7 Los Supersonicos
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj
+
+#EXTINF:-1,24/7 Macgyver (e)(SD)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/44374
+
+#EXTINF:-1,24/7 Manual de supervivencia escolar de Ned (e)(SD)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37779
+
+#EXTINF:-1,24/7 Marimar (e)(SD)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/58061
+#EXTINF:-1,24/7 Marvel Comics (e)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37909
+#EXTINF:-1,24/7 Marvel Comics Peliculas (e)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37911
+#EXTINF:-1,24/7 María la del barrio (e)(SD)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/62994
+#EXTINF:-1,24/7 María Mercedes (e)(SD)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/59233
+#EXTINF:-1,24/7 Masha y el Oso (e)(SD)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37822
+
+#EXTINF:-1,24/7 Mi Bella Genio (e)(SD)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37802
+#EXTINF:-1,24/7 Mighty Morphin Power Rangers (e)(SD)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/38456
+
+#EXTINF:-1,24/7 Peliculas Musicales (e)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/40281
+
+#EXTINF:-1,24/7 Pinky y Cerebro (e)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37833
+
+#EXTINF:-1,24/7 Rick y Morty (e)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37850
+
+#EXTINF:-1,24/7 Rubi (e)(SD)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37807
+
+#EXTINF:-1,24/7 Sabrina la bruja adolescente (e)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37788
+
+#EXTINF:-1,24/7 Sailor Moon (e)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/38446
+#EXTINF:-1,24/7 Sailor Moon Crystal (e)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37842
+#EXTINF:-1,24/7 Sakura Card Captor (e)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37844
+#EXTINF:-1,24/7 Sam y Cat (e)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37770
+#EXTINF:-1,24/7 Samurai X (e)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37836
+
+#EXTINF:-1,24/7 Showtime Beyond(M)(1080)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/2117
+
+#EXTINF:-1,24/7 Super Agente 86 (e)(SD)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37789
+
+#EXTINF:-1,24/7 Superman (e)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/58181
+
+#EXTINF:-1,24/7 Universo DC (e)(1080)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37916
+
+#EXTINF:-1,24/7 Universo Marvel (e)(1080)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37907
+#EXTINF:-1,24/7 Vecinos (e)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37785
+
+#EXTINF:-1,24/7 Walker Texas Ranger (e)(SD)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37762
+
+#EXTINF:-1,24/7 Winnie de Pooh (e)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/44376
+#EXTINF:-1,24/7 X-Men (e)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37924
+#EXTINF:-1,24/7 X-Men Animated Series (e) (SD)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37838
+#EXTINF:-1,24/7 Xena warrior princess (e)(SD)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37781
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/paramountanimation/images/4/4b/UPN_Kids_logo.png/revision/latest?cb=20210813190320" tvg-group="INFANTILES",¡Haz Clic!
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4310
@@ -2347,320 +2671,6 @@ http://redima.pro:8880/TISUCR/TISUCR/989
 #EXTINF:-1,Canal Claro HD
 http://redima.pro:8880/TISUCR/TISUCR/991
 
-#EXTINF:-1,24/7 Alf (e)(SD)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37766
-
-#EXTINF:-1,24/7 American Crime Story (e)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37795
-
-#EXTINF:-1,24/7 Animaniacs (e)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37879
-
-#EXTINF:-1,24/7 Avatar La Leyenda de Aang (e)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/38448
-
-#EXTINF:-1,24/7 Aventura (e)(1080)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37931
-#EXTINF:-1,24/7 Aventura 2022 (e)(1080)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/225774
-
-#EXTINF:-1,24/7 Baron Rojo (e) (720) (e)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37839
-#EXTINF:-1,24/7 Basado en Hechos Reales (e)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37920
-#EXTINF:-1,24/7 Batman (e)(1080)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/60048
-
-#EXTINF:-1,24/7 Ben 10 (e)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37819
-#EXTINF:-1,24/7 Ben 10 Alien Force (e)(SD)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37867
-#EXTINF:-1,24/7 Bruce Lee (e)(1080)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37763
-
-#EXTINF:-1,24/7 Caballeros del Zodiaco (720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37815
-
-#EXTINF:-1,24/7 Caballeros del Zodiaco Hades & Alma de oro (e)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37845
-
-#EXTINF:-1,24/7 CienciaFiccion (e)(1080)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37929
-
-#EXTINF:-1,24/7 Cine Belico (e)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/40268
-
-#EXTINF:-1,24/7 Cine Biografico (e)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/40269
-
-#EXTINF:-1,24/7 Cine Catastrofico (e)(1080)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/40270
-#EXTINF:-1,24/7 Cine Latino 2022 (e)(1080)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/225784
-#EXTINF:-1,24/7 Comedia 2022 (e)(1080)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/225776
-
-#EXTINF:-1,24/7 Comedia Sangrienta (e)(1080)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/40279
-
-#EXTINF:-1,24/7 DC Comics Peliculas (e)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37871
-
-#EXTINF:-1,24/7 DC Comics Series (e)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37874
-
-#EXTINF:-1,24/7 Death Note (e)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37821
-
-#EXTINF:-1,24/7 Digimon (e)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37814
-
-#EXTINF:-1,24/7 Dragon Ball (e)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37816
-#EXTINF:-1,24/7 Dragon Ball GT (e)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37831
-#EXTINF:-1,24/7 Dragon Ball Peliculas (e)(1080)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/119556
-#EXTINF:-1,24/7 Dragon Ball Super (e)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37841
-#EXTINF:-1,24/7 Dragon Ball Z - Saga Cell (e)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37826
-#EXTINF:-1,24/7 Dragon Ball Z - Saga de Freezer (e)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37812
-#EXTINF:-1,24/7 Dragon Ball Z - Saga Majin Boo (e)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37813
-
-#EXTINF:-1,24/7 Dragon Quest Las aventuras de Fly (e)(SD)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/38319
-
-#EXTINF:-1,24/7 Drake y Josh  (e)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37768
-
-#EXTINF:-1,24/7 El Chapulin Colorado (e)(SD)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37765
-#EXTINF:-1,24/7 El Chavo del 8 (e)(SD)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37746
-#EXTINF:-1,24/7 El Chavo del 8 HQ (e)(SD)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37761
-
-#EXTINF:-1,24/7 El nuevo show del Pájaro Loco (e)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37852
-
-#EXTINF:-1,24/7 El Principe del Rap (e)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37799
-#EXTINF:-1,24/7 El Zorro (e)(SD)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37782
-
-#EXTINF:-1,24/7 En Busca del Valle Encantado (e) (1080)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37846
-#EXTINF:-1,24/7 Erase Una Vez (e)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/62474
-
-#EXTINF:-1,24/7 Estrenos 2022 (e)(1080)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/225786
-
-#EXTINF:-1,24/7 Estrenos Accion (e)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/144548
-#EXTINF:-1,24/7 Estrenos Animacion (e)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/144549
-#EXTINF:-1,24/7 Estrenos Aventura (720)(e)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/144550
-#EXTINF:-1,24/7 Estrenos CienciaFiccion (e)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/144551
-#EXTINF:-1,24/7 Estrenos Comedia (e)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/144552
-#EXTINF:-1,24/7 Estrenos Disney (e)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/144553
-#EXTINF:-1,24/7 Estrenos Familiar (e)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/144554
-#EXTINF:-1,24/7 Fantasia (e)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37921
-
-#EXTINF:-1,24/7 Fear the Walking Dead
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/61987
-#EXTINF:-1,24/7 Flash (e)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37747
-#EXTINF:-1,24/7 Friends (e)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37800
-
-#EXTINF:-1,24/7 Garfield y sus amigos (e)(SD)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/58032
-
-#EXTINF:-1,24/7 Harry Potter (e) (1080) 
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37755
-#EXTINF:-1,24/7 HBO Family(M)(1080)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/2106
-#EXTINF:-1,24/7 HBO Plus(M)(1080)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/2107
-#EXTINF:-1,24/7 HBO Signature (M)(1080)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/2108
-
-#EXTINF:-1,24/7 Hora de Aventura (e)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGya
-#EXTINF:-1,24/7 iCarly  (e)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37769
-
-#EXTINF:-1,24/7 Infantil (e)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37919
-
-#EXTINF:-1,24/7 Inspector Gadget (e)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37878
-#EXTINF:-1,24/7 Inuyasha (e)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/38496
-
-#EXTINF:-1,24/7 Jackie Chan (e)(HQ)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/54827
-#EXTINF:-1,24/7 Jimmy Neutron (e)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37887
-#EXTINF:-1,24/7 Juego de Tronos (e)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37751
-
-#EXTINF:-1,24/7 La Casa de Mickey Mouse (e)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37834
-
-#EXTINF:-1,24/7 La Casa de Papel (e)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37774
-#EXTINF:-1,24/7 La Familia Ingalls (e)(SD)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37809
-
-#EXTINF:-1,24/7 La Familia Monster (e)(SD)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37787
-
-
-#EXTINF:-1,24/7 La Pantera Rosa (e)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/38447
-
-#EXTINF:-1,24/7 La Vaca y el Pollito (e)(SD)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/63333
-
-#EXTINF:-1,24/7 Looney Tunes (e)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37848
-
-#EXTINF:-1,24/7 Los Años Maravillosos (e)(SD)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37760
-
-#EXTINF:-1,24/7 Los Expedientes Secretos X (e)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37796
-
-#EXTINF:-1,24/7 Los Locos Addams  (e)(SD)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37786
-
-#EXTINF:-1,24/7 Los Magnificos (e)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37805
-
-#EXTINF:-1,24/7 Los Picapiedras (e)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37854
-
-#EXTINF:-1,24/7 Los Simpsons S01 a S20 (e)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37767
-#EXTINF:-1,24/7 Los Simpsons S20 a S30  (e)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37758
-#EXTINF:-1,24/7 Los Supersonicos
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj
-
-#EXTINF:-1,24/7 Macgyver (e)(SD)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/44374
-
-#EXTINF:-1,24/7 Manual de supervivencia escolar de Ned (e)(SD)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37779
-
-#EXTINF:-1,24/7 Marimar (e)(SD)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/58061
-#EXTINF:-1,24/7 Marvel Comics (e)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37909
-#EXTINF:-1,24/7 Marvel Comics Peliculas (e)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37911
-#EXTINF:-1,24/7 María la del barrio (e)(SD)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/62994
-#EXTINF:-1,24/7 María Mercedes (e)(SD)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/59233
-#EXTINF:-1,24/7 Masha y el Oso (e)(SD)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37822
-
-#EXTINF:-1,24/7 Mi Bella Genio (e)(SD)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37802
-#EXTINF:-1,24/7 Mighty Morphin Power Rangers (e)(SD)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/38456
-
-#EXTINF:-1,24/7 Naruto
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/225765
-#EXTINF:-1,24/7 Naruto Shippuden (e)()
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37811
-
-#EXTINF:-1,24/7 Peliculas Musicales (e)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/40281
-
-#EXTINF:-1,24/7 Peppa Pig (e)(SD)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37829
-
-#EXTINF:-1,24/7 Pinky y Cerebro (e)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37833
-
-#EXTINF:-1,24/7 Pokemon (e)(SD)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37824
-#EXTINF:-1,24/7 Pokemon Películas (e)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37922
-
-#EXTINF:-1,24/7 Ranma ½ (e)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/38449
-
-#EXTINF:-1,24/7 Rick y Morty (e)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37850
-
-#EXTINF:-1,24/7 Rubi (e)(SD)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37807
-
-#EXTINF:-1,24/7 Sabrina la bruja adolescente (e)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37788
-
-#EXTINF:-1,24/7 Sailor Moon (e)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/38446
-#EXTINF:-1,24/7 Sailor Moon Crystal (e)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37842
-#EXTINF:-1,24/7 Sakura Card Captor (e)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37844
-#EXTINF:-1,24/7 Sam y Cat (e)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37770
-#EXTINF:-1,24/7 Samurai X (e)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37836
-
-#EXTINF:-1,24/7 Showtime Beyond(M)(1080)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/2117
-
-#EXTINF:-1,24/7 Super Agente 86 (e)(SD)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37789
-
-#EXTINF:-1,24/7 Super Campeones (e)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37828
-#EXTINF:-1,24/7 Super Campeones 2002 (e)(SD)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37817
-
-#EXTINF:-1,24/7 Superman (e)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/58181
-
-#EXTINF:-1,24/7 Tom and Jerry The Classic  (e)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37859
-
-#EXTINF:-1,24/7 Universo DC (e)(1080)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37916
-
-#EXTINF:-1,24/7 Universo Marvel (e)(1080)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37907
-#EXTINF:-1,24/7 Vecinos (e)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37785
-
-#EXTINF:-1,24/7 Walker Texas Ranger (e)(SD)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37762
-
-#EXTINF:-1,24/7 Winnie de Pooh (e)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/44376
-#EXTINF:-1,24/7 X-Men (e)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37924
-#EXTINF:-1,24/7 X-Men Animated Series (e) (SD)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37838
-#EXTINF:-1,24/7 Xena warrior princess (e)(SD)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37781
-
 #EXTINF:-0, Comedy Central LA
 http://168.227.22.18:1935/live/mobile-001/playlist.m3u8
 
@@ -2800,20 +2810,6 @@ https://is.gd/0YeuDT
 #EXTINF:0,Competencias (Venezuela) (🇻🇪)
 https://is.gd/cJgi6V
 
-#EXTINF:0,Anime (España) (🇪🇸)
-https://is.gd/RtJk2v
-#EXTINF:0,Anime (Mexico) (🇲🇽)
-https://is.gd/3DnWNL
-#EXTINF:0,Anime Accion (España) (🇪🇸)
-https://is.gd/LvmUPV
-#EXTINF:0,Avatar (España) (🇪🇸)
-https://is.gd/faqxKp
-#EXTINF:0,Death Note (España) (🇪🇸)
-https://is.gd/2zGwG1
-
-#EXTINF:0,Boing (España) (🇪🇸)
-https://is.gd/OIrOEi
-
 #EXTINF:0,Anzoategui (Venezuela) (🇻🇪)
 https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/.m3u8
 
@@ -2840,8 +2836,6 @@ https://streamyes.alsolnet.com/azaharesfm/live/.m3u8
 https://ch1-tva.duin.dev/hls/stream.m3u8
 #EXTINF:0,Azteca Int (Mexico) (🇲🇽)
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:0,AZTV Anime Zone OK
-http://animezonetv.net/hls/stream.m3u8
 #EXTINF:0,Azufral (Colombia) (🇨🇴)
 https://tvlatina.live:1936/8020/8020/.m3u8
 
