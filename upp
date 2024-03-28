@@ -1,5 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1,ARG: AMERICA TV ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ
+http://magmas5.com:8000/VoDLatiecu/X4PFWWVSX8/137746
+#EXTINF:-1,Sports | DIRECTV  AR UHD #1
+http://magmas5.com:8000/VoDLatiecu/X4PFWWVSX8/149988
+#EXTINF:-1,ARG: ON DIRECTV Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/VoDLatiecu/X4PFWWVSX8/149989
+#EXTINF:-1,Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ | ON DIRECTV UHD (ARG)
+http://magmas5.com:8000/VoDLatiecu/X4PFWWVSX8/149990
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5eVXghNNepwv_1RdjZKf1RgIj_QD4j-zdEQGZyVt6omJ0IF3E1U31TNbdkWaZcJPxbZ0&usqp=CAU" tvg-group="ARGENTINA",Gran Hermano Argentina 24Hrs 
 http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/132440
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5eVXghNNepwv_1RdjZKf1RgIj_QD4j-zdEQGZyVt6omJ0IF3E1U31TNbdkWaZcJPxbZ0&usqp=CAU" tvg-group="ARGENTINA",Camara 1 Gran Hermano Argentina 24Hrs 
@@ -265,47 +273,34 @@ http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/59809
 #EXTINF:-1,ARG-America 24 (X)(720)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/116192
 
-#EXTINF:-1,ARG-Canal De La Ciudad (M)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/22102
 #EXTINF:-1,ARG-Ciudad Magazine (M)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/22104
 #EXTINF:-1,ARG-Cronica (L)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/22108
-#EXTINF:-1,ARG-El Nueve (M)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/22101
+
 #EXTINF:-1,ARG-El Nueve (X)(720)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/116197
+
 #EXTINF:-1,ARG-El Trece (M)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/22098
 #EXTINF:-1,ARG-El Trece (T)(720)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/116199
 #EXTINF:-1,ARG-LN (L)(720)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/153864
-#EXTINF:-1,ARG-LN+ (T)(SD)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/22115
+
 #EXTINF:-1,ARG-Telefe (L)(1080)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/101841
-#EXTINF:-1,ARG-Telefe (M)(SD)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/22121
 #EXTINF:-1,ARG-Telefe (X)(720)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/116201
 #EXTINF:-1,ARG-Telefe Internacional (X)(720)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/153865
-#EXTINF:-1,ARG-Telemax (T)(SD)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/22122
-#EXTINF:-1,ARG-TN (M)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/22124
+
 #EXTINF:-1,ARG-TV Publica (X)(720)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/153866
 #EXTINF:-1,ARG-TV Publica (M)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/22125
 #EXTINF:-1,ARG-TV Publica (X)(720)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/116203
-#EXTINF:-1,ARG-TV5 (M)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/22126
-#EXTINF:-1,ARG-Volver (M)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/22128
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Canal_Ocho_San_Juan_%28Logo_2018%29.png" tvg-group="ARGENTINA", CANAL 8 SAN JUAN 
 https://ythls.armelin.one/channel/UC5UKMEIoqvNDMSDz2_6Sn9g.m3u8
@@ -364,6 +359,12 @@ https://stream.arcast.live/ahora/ahora/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NGFederal.ar" tvg-logo="https://i.imgur.com/lJCIqYn.png" group-title="",NG Federal
 http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
+
+#EXTINF: -1 tvg-id="France24Espanol.fr" tvg-logo="https://i.imgur.com/ZnmAXVv.png" group-title="Noticias", France 24 Español (1080p)
+https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+
+#EXTINF: -1 tvg-id="A24.ar" tvg-logo="https://i.imgur.com/LnXQkIU.png "group-title="Noticias", A24 (1080p) [No 24/7]
+https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Am%C3%A9rica_Tucum%C3%A1n_Canal_28.1_%282019-1%29.png" tvg-group="ARGENTINA", AMERICA TUCUMAN
 https://ythls.armelin.one/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
