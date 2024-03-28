@@ -263,32 +263,20 @@ https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1,ARG-Fox Sports Premium (T)(1080)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/59809
 
-#EXTINF:-1,ARG-America 24 (X)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/116192
-#EXTINF:-1,ARG-America TV (M)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/22094
 #EXTINF:-1,ARG-C5N (M)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/22097
 #EXTINF:-1,ARG-Ciudad Magazine (M)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/22104
-#EXTINF:-1,ARG-Cronica (L)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/22108
 #EXTINF:-1,ARG-El Nueve (M)(720)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/22101
 #EXTINF:-1,ARG-El Nueve (X)(720)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/116197
-#EXTINF:-1,ARG-El Trece (M)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/22098
-#EXTINF:-1,ARG-El Trece (T)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/116199
 #EXTINF:-1,ARG-LN (L)(720)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/153864
 #EXTINF:-1,ARG-Telefe (X)(720)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/116201
 #EXTINF:-1,ARG-Telefe Internacional (X)(720)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/153865
-#EXTINF:-1,ARG-Telemax (T)(SD)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/22122
 #EXTINF:-1,ARG-TN (M)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/22124
 #EXTINF:-1,ARG-TV Publica (X)(720)
@@ -296,16 +284,19 @@ http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/153866
 #EXTINF:-1,ARG-TV Publica (M)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/22125
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Canal_Ocho_San_Juan_%28Logo_2018%29.png" tvg-group="ARGENTINA", CANAL 8 SAN JUAN 
-https://ythls.armelin.one/channel/UC5UKMEIoqvNDMSDz2_6Sn9g.m3u8
-
 #EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/AMERICATV.png" tvg-group="ARGENTINA", America TV (Not 24/7)
 https://ythls.onrender.com/channel/UC6NVDkuzY2exMOVFw4i9oHw.m3u8
 
-#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="General" user-agent="iPhone",America TV
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/AMERICATV.png" tvg-group="ARGENTINA",ARG-America 24 (X)(720) fuxxi
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/116192
 
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/AMERICATV.png" tvg-group="ARGENTINA",ARG-America TV (M)(720)fuxxi
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/22094
 
-#EXTINF:-1 tvg-id="1894.stations.xmltv.tvmedia.ca" tvg-name="AMERICA TV" tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/AMERICATV.png" group-title="Argentina",AMERICA TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Canal_Ocho_San_Juan_%28Logo_2018%29.png" tvg-group="ARGENTINA", CANAL 8 SAN JUAN 
+https://ythls.armelin.one/channel/UC5UKMEIoqvNDMSDz2_6Sn9g.m3u8
+
+#EXTINF:-1 tvg-id="1894.stations.xmltv.tvmedia.ca" tvg-name="AMERICA TV" tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/AMERICATV.png" group-title="Argentina",AMERICA TV budtv
 http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/1794
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/512px-Telefe_Rosario_%282018%29.png",Telefe Rosario
@@ -340,6 +331,12 @@ https://unlimited1-us.dps.live/televidaar/televidaar.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://canal8mardelplata.com.ar/wp-content/uploads/2022/08/favicon.png" tvg-group="ARGENTINA", CANAL 8 MAR DEL PLATA
 https://stream.arcast.live/c8mdp/ngrp:c8mdp_all/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/EL%20TRECE.png" group-title="Argentina",ARG-El Trece (M) fuxxi
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/22098
+
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/EL%20TRECE.png" group-title="Argentina",ARG-El Trece (T)(720) fuxxi
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/116199
+
 #EXTINF:-1 tvg-id="18861.stations.xmltv.tvmedia.ca" tvg-name="El Trece Internacional" tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/EL%20TRECE.png" group-title="Argentina",El Trece Internacional
 http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/1815
 
@@ -358,8 +355,8 @@ http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Am%C3%A9rica_Tucum%C3%A1n_Canal_28.1_%282019-1%29.png" tvg-group="ARGENTINA", AMERICA TUCUMAN
 https://ythls.armelin.one/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
 
-#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/CRONCIA.png" group-title="Argentina",Cronica cntlnk2
-https://cntlnk2-main-edge-access.secure.footprint.net/b16/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/CRONCIA.png" group-title="Argentina",ARG-Cronica (L) fuxxi
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/22108
 
 #EXTINF:-1 tvg-id="176.stations.xmltv.tvmedia.ca" tvg-name="Cronica-HD" tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/CRONCIA.png" group-title="Argentina",Cronica-HD
 http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/1805
