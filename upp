@@ -1,5 +1,29 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Telemicro.do" tvg-logo="https://i.imgur.com/WhgySAk.png" tvg-group="INFANTILES",Telemicro (480p)
+http://51.81.93.239:8084/hls/tmicro.m3u8
+
+#EXTINF:-1 tvg-id="GuaroTV.ve" tvg-logo="https://i.ibb.co/LN92K6h/IMG-20230705-154347.jpg" tvg-group="INFANTILES",Guaro TV (1080p)
+https://streamtv.intervenhosting.net:3061/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="LIMTV.py" tvg-logo="https://i.imgur.com/CALoCyo.png" group-title="Undefined",LIM TV (720p)
+https://tv.invasivamedia.com/hls/limtv.m3u8
+
+#EXTINF:-1 tvg-id="TuKanal.co" tvg-logo="https://i.imgur.com/GJthQOa.png" group-title="Undefined",Tu Kanal (1080p)
+http://45.33.63.98/hls/abdi.m3u8
+
+#EXTINF:-1 tvg-id="KanalDDrama.tr" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="Series",Kanal D Drama (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TAMTV.ve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Logo_TAM.png" group-title="General",TAM TV (240p)
+https://tv.webtuya.com:3459/live/tammeridalive.m3u8
+
+#EXTINF:-1 tvg-id="STZTelebista.es" tvg-logo="https://i.imgur.com/rFQuAEv.png" group-title="Music",STZ Telebista (1080p)
+https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
+
+#EXTINF:-1 tvg-id="Mun2TV.do" tvg-logo="https://i.imgur.com/e38DNzI.png" group-title="Music",Mun2TV (720p)
+https://play.amelbasoluciones.co:3309/live/mun2tvlive.m3u8
+
 #EXTINF:-1,VIÑA  2024 📺
 https://ch1-tva.duin.dev/hls/stream.m3u8
  
@@ -684,9 +708,6 @@ https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3103-320x180-000000.jpg" tvg-group="ARGENTINA",Viajar TV (720p )
 https://stmv5.livecastv.com/manualtman/manualtman/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-logo="https://i.imgur.com/GJbRWwH.png" group-title="Kids",Pakapaka
-https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-country="AR" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTU1X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1708457100957" tvg-group="ARGENTINA", ENCUENTRO 22.1
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
 
@@ -1169,24 +1190,15 @@ https://i.mjh.nz/SamsungTVPlus/ESBC4100003WE.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Boing_TV.png" tvg-group="INFANTILES",Boing
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/manifest.m3u8
 
-#EXTINF:-1 tvg-id="canalpanda.es" tvg-name="ES: CANAL PANDA SD" tvg-logo="http://fanc.tmsimg.com/assets/s53736_ll_h3_aa.png" group-title="ES   MOVISTAR+",ES: CANAL PANDA SD
-http://400520923797321163.ofd0219.xyz:80/play/vi0105819/@Dk@GPx7vrQ/321163.ts
-#EXTINF:-1 tvg-id="canalpanda.es" tvg-name="ES: CANAL PANDA HD" tvg-logo="http://fanc.tmsimg.com/assets/s53736_ll_h3_aa.png" group-title="ES   MOVISTAR+",ES: CANAL PANDA HD
-http://400520923797683907.ofd0219.xyz:80/play/vi0105819/@Dk@GPx7vrQ/683907.ts
-
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/X50xOp7y_a4/maxresdefault.jpg" tvg-group="INFANTILES", | DM Niños TV
 https://ott1.hdlatam.tv/live/k1DS_tvLKENFSRJVFB/playlist.m3u8
 
-#EXTINF:-1,24/7 El Chapulin Colorado (e)(SD)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/chapulincolorado.png",24/7 El Chapulin Colorado (e)(SD)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37765
-#EXTINF:-1,24/7 El Chavo del 8 (e)(SD) fuxxi
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elchavodel8.png",24/7 El Chavo del 8 (e)(SD) fuxxi
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37746
-#EXTINF:-1,24/7 El Chavo del 8 HQ (e)(SD) fuxxi
+#EXTINF:-1 tvg-logo="https://auracomunicadora.files.wordpress.com/2015/11/ch.jpg?w=640",24/7 El Chavo del 8 HQ (e)(SD) fuxxi
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37761
-
-#EXTINF:-1 tvg-logo="https://serenotv.com/cargas/2023/03/Logo-De-Dreiko-Nuevo-1-300x300.png" tvg-group="INFANTILES",Dreiko TV OK
-https://cloudvideo.servers10.com:8081/8138/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1363736016155258880/LCGweMBi.jpg" tvg-group="INFANTILES", EL CHAVO 24/7 budtv
 http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/35022
 
@@ -1198,6 +1210,9 @@ http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/12049
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/PO47HbOlemo/hqdefault_live.jpg" tvg-group="INFANTILES", Simpson Mania HD	
 https://stream-cdn-iad.vaughnsoft.net/play/live_simpson_maniahd189.flv?android_vs.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://serenotv.com/cargas/2023/03/Logo-De-Dreiko-Nuevo-1-300x300.png" tvg-group="INFANTILES",Dreiko TV OK
+https://cloudvideo.servers10.com:8081/8138/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamfiction/images/e/e4/Big_2019.png/revision/latest?cb=20200320175423" tvg-group="INFANTILES", big channel
 https://cageu.bozztv.com/ssh101/ssh101/bigchannel/playlist.m3u8
@@ -1214,6 +1229,9 @@ https://cageu.bozztv.com/ssh101/ssh101/magicstream0k/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/bxo9xzk8EE1Fcs2vFmDkiTTfYKEv_lLNgwENOI-PBt0vmHw-ktVXo0Bc3OIRwo_51IrTQ_sh=s900-c-k-c0x00ffffff-no-rj" tvg-group="INFANTILES", Retro Magico
 https://cageu.bozztv.com/ssh101/ssh101/retromagicochnl/playlist.m3u8
 
+#EXTINF:-1 tvg-id="1304" tvg-name="Niños Mágicos" tvg-logo="https://cdn.m3u.cl/logo/1304_Magic_Kids.png" tvg-group="INFANTILES", Niños Mágicos | AR nuevo
+https://cageu.bozztv.com/ssh101/ssh101/magic2019/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1019" tvg-name="Latino Kids TV" tvg-logo="https://cdn.m3u.cl/logo/1019_Latino_Kids_TV.png", Latino Kids TV ✪ | UY
 https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8?PlaylistM3UCL
 
@@ -1226,14 +1244,15 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8?PlaylistM3UC
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/5efe361b75000b6eb6104bf22a0880fe.png" tvg-group="INFANTILES", EnerGeek
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://budtv-ultra.com/posters/1643139928306.png" group-title="24/7",24/7 | Pokemon
+#EXTINF:-1 tvg-logo="https://budtv-ultra.com/posters/1643139928306.png" tvg-group="INFANTILES",24/7 | Pokemon
 http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/155665
 
-#EXTINF:-1,24/7 Pokemon (e)(SD)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/800px-International_Pok%C3%A9mon_logo.svg.png",24/7 Pokemon (e)(SD)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37824
-#EXTINF:-1,24/7 Pokemon Películas (e)(720)
+#EXTINF:-1 tvg-logo="https://imgmedia.larepublica.pe/640x371/larepublica/migration/images/PTQOGE36IBEAXO545R32LTVMDA.webp",24/7 Pokemon Películas (e)(720)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37922
-#EXTINF:-1,24/7 Digimon (e)(720)
+
+#EXTINF:-1 tvg-logo="https://www.pngall.com/wp-content/uploads/2/Digimon-Logo-PNG-Free-Download.png",24/7 Digimon (e)(720)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37814
 
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/841b33153070329.Y3JvcCwxMDgwLDg0NCwwLDExNw.jpg" tvg-group="INFANTILES", DB VariedTV
@@ -1244,24 +1263,31 @@ http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/38702
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/181-1814830_la-historia-del-anime-se-inicia-6-meses.png" group-title="24/7",Dragon ball super (p) budtv
 http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/2338
 
-#EXTINF:-1,24/7 Dragon Ball (e)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonball.png",24/7 Dragon Ball (e)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37816
-#EXTINF:-1,24/7 Dragon Ball GT (e)
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballgt.png",24/7 Dragon Ball GT (e)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37831
+
 #EXTINF:-1,24/7 Dragon Ball Peliculas (e)(1080)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/119556
-#EXTINF:-1,24/7 Dragon Ball Super (e)(720)
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballsuper.png",24/7 Dragon Ball Super (e)(720)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37841
-#EXTINF:-1,24/7 Dragon Ball Z - Saga Cell (e)(720)
+
+#EXTINF:-1 tvg-logo="https://images6.alphacoders.com/676/thumb-1920-676458.png",24/7 Dragon Ball Z Saga Cell (e)(720)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37826
-#EXTINF:-1,24/7 Dragon Ball Z - Saga de Freezer (e)(720)
+
+#EXTINF:-1 tvg-logo="https://data.topquizz.com/distant/quizz/big/3/9/1/6/246193_e3c3856aa3.jpg",24/7 Dragon Ball Z Saga Freezer (e)(720)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37812
-#EXTINF:-1,24/7 Dragon Ball Z - Saga Majin Boo (e)(720)
+
+#EXTINF:-1 tvg-logo="https://images4.alphacoders.com/676/676442.png",24/7 Dragon Ball Z Saga Majin Boo (e)(720)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37813
 
-#EXTINF:-1,24/7 Caballeros del Zodiaco (720)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/caballeroszodiaco.png",24/7 Caballeros del Zodiaco (720)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37815
-#EXTINF:-1,24/7 Caballeros del Zodiaco Hades & Alma de oro (e)(720)
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/saintseiya/images/e/eb/Saga_hades.jpg/revision/latest?cb=20180105185645&path-prefix=es",24/7 Caballeros del Zodiaco Hades & Alma de oro (e)(720)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37845
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUCfHKPe5iYriyYKfjkO6127CPuQ6a3RaS6HiG1PidjJIzinO_UpNGZ4ilgHlYkbKtlao&usqp=CAU" tvg-group="INFANTILES", BITME 401
@@ -1276,14 +1302,26 @@ https://d16k620tapvw9n.cloudfront.net/out/v1/8e3062c10bb341feb7ee363c320e06af/in
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/6/6d/Loco2006.png/revision/latest?cb=20230129233817" tvg-group="INFANTILES", Locomotion | AR
 http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1,24/7 Alf (e)(SD)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/alf.png",24/7 Alf (e)(SD)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37766
 
-#EXTINF:-1,24/7 Tom and Jerry The Classic  (e)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/12/b6/bd/12b6bd3aff136e7fa05ce6929d44d4d4.png",24/7 Tom and Jerry The Classic  (e)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37859
 
-#EXTINF:-1,24/7 Garfield y sus amigos (e)(SD)
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/37-379193_kaboom-studios-written-by-garfield-logo-png.png",24/7 Garfield y sus amigos (e)(SD)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/58032
+
+#EXTINF:-1 tvg-logo="https://www.tvinsider.com/wp-content/uploads/2022/06/zorro-1957-770x433.jpg",24/7 El Zorro (e)(SD)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37782
+
+#EXTINF:-1 tvg-logo="http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37786",24/7 Los Locos Addams (e)(SD)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37786
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-vDxo7-wHfbc/YHHDvQrfhlI/AAAAAAAAGak/xcE1EON9w4wPuJigdledbvM5avRfVINdACLcBGAsYHQ/s656/munsters.jpg",24/7 La Familia Monster (e)(SD)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37787
+
+#EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p184132_b_h8_an.jpg?w=1280&h=720",24/7 Xena warrior princess (e)(SD)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37781
 
 #EXTINF:-1 tvg-id="1551" tvg-name="24-7 TV" tvg-logo="https://cdn.m3u.cl/logo/1551_24_7_TV.png", 24-7 TV ✪ | AR
 https://stmv5.voxtvhd.com.br/247tv/247tv/playlist.m3u8?PlaylistM3UCL
@@ -1308,36 +1346,37 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1qdPq58.png" tvg-group="INFANTILES", Naruto| alta definición
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture= &buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366- 4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=00e032f5-f693 -11ea-b899-0242ac110002&userId=&serverSideAds=true
+https://naruto-official.com/common/ogp/NTOS_OG-main.png
 
-#EXTINF:-1,24/7 Naruto
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/naruto.png",24/7 Naruto
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/225765
-#EXTINF:-1,24/7 Naruto Shippuden (e)()
+#EXTINF:-1 tvg-logo="https://images.canal1.com.co/wp-content/uploads/2022/05/20180048/1905w-Naruto-shippuden.jpg",24/7 Naruto Shippuden (e)()
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37811
-#EXTINF:-1,24/7 Super Campeones (e)
+#EXTINF:-1 tvg-logo="https://oromartv.com/wp-content/uploads/2017/03/supercampeones-twiter.jpg",24/7 Super Campeones (e)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37828
-#EXTINF:-1,24/7 Super Campeones 2002 (e)(SD)
+#EXTINF:-1 tvg-logo="https://frikiverseros.com.ar/wp-content/uploads/2022/07/captain-tsubasa.webp",24/7 Super Campeones 2002 (e)(SD)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37817
-#EXTINF:-1,24/7 Ranma ½ (e)(720)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ranma.png"24/7 Ranma ½ (e)(720)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/38449
-#EXTINF:-1,24/7 Death Note (e)(720)
+#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/full/195-1953480_light-death-note-full-body-death-note-ryuk.png",24/7 Death Note (e)(720)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37821
-
-#EXTINF:0,Anime (España) (🇪🇸)
-https://is.gd/RtJk2v
-#EXTINF:0,Anime (Mexico) (🇲🇽)
-https://is.gd/3DnWNL
-#EXTINF:0,Anime Accion (España) (🇪🇸)
-https://is.gd/LvmUPV
-#EXTINF:0,Avatar (España) (🇪🇸)
-https://is.gd/faqxKp
-#EXTINF:0,Death Note (España) (🇪🇸)
+#EXTINF:0 tvg-logo="https://palabrasdesdeotromundo.files.wordpress.com/2017/04/death-note.jpg?w=1200",Death Note (España) (🇪🇸)
 https://is.gd/2zGwG1
-#EXTINF:0,AZTV Anime Zone OK
+
+#EXTINF:0 tvg-logo="",Anime (España) (🇪🇸)
+https://is.gd/RtJk2v
+#EXTINF:0 tvg-logo="",Anime (Mexico) (🇲🇽)
+https://is.gd/3DnWNL
+#EXTINF:0 tvg-logo="",Anime Accion (España) (🇪🇸)
+https://is.gd/LvmUPV
+#EXTINF:0 tvg-logo="",Avatar (España) (🇪🇸)
+https://is.gd/faqxKp
+#EXTINF:0 tvg-logo="",AZTV Anime Zone OK
 http://animezonetv.net/hls/stream.m3u8
-#EXTINF:0,Boing (España) (🇪🇸)
+#EXTINF:0 tvg-logo="",Boing (España) (🇪🇸)
 https://is.gd/OIrOEi
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yvShCF9.png" tvg-group="INFANTILES", Yu-Gi-Oh! | alta definición
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/yugioh.png" tvg-group="INFANTILES", Yu-Gi-Oh! | alta definición
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId =canal&embedPartner= rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 
 #EXTINF:-1 channel-id="samsung-ESBA1400007MR" tvg-id="ESBA1400007MR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1400007MR_20230823T033059SQUARE.png_20230823033100.png" tvg-group="INFANTILES", Yu-Gi-Oh! E
@@ -1412,14 +1451,15 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9996533c9de30007
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo8W4o_NdxpZBJT4g4-dHYfxWs2iIJQ0p_dneUuK0d6WpR6Pq0gBt_GTnEx09hzaFTrT8&usqp=CAU" tvg-group="INFANTILES", TALTAL TV HD
 https://cageu.bozztv.com/ssh101/ssh101/taltal/playlist.m3u8
 
-#EXTINF:-1,24/7 American Crime Story (e)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37795
 
 #EXTINF:-1,24/7 Animaniacs (e)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37879
 
 #EXTINF:-1,24/7 Avatar La Leyenda de Aang (e)(720)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/38448
+
+#EXTINF:-1,24/7 American Crime Story (e)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37795
 
 #EXTINF:-1,24/7 Aventura (e)(1080)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37931
@@ -1476,24 +1516,22 @@ http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37852
 
 #EXTINF:-1,24/7 El Principe del Rap (e)(720)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37799
-#EXTINF:-1,24/7 El Zorro (e)(SD)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37782
 
-#EXTINF:-1,24/7 En Busca del Valle Encantado (e) (1080)
+#EXTINF:-1 tvg-logo="",24/7 En Busca del Valle Encantado (e) (1080)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37846
-#EXTINF:-1,24/7 Erase Una Vez (e)(720)
+#EXTINF:-1 tvg-logo="",24/7 Erase Una Vez (e)(720)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/62474
 
-#EXTINF:-1,24/7 Estrenos 2022 (e)(1080)
+#EXTINF:-1 tvg-logo="",24/7 Estrenos 2022 (e)(1080)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/225786
 
-#EXTINF:-1,24/7 Estrenos Accion (e)(720)
+#EXTINF:-1 tvg-logo="",24/7 Estrenos Accion (e)(720)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/144548
-#EXTINF:-1,24/7 Estrenos Animacion (e)(720)
+#EXTINF:-1 tvg-logo="",24/7 Estrenos Animacion (e)(720)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/144549
-#EXTINF:-1,24/7 Estrenos Aventura (720)(e)
+#EXTINF:-1 tvg-logo="",24/7 Estrenos Aventura (720)(e)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/144550
-#EXTINF:-1,24/7 Estrenos CienciaFiccion (e)(720)
+#EXTINF:-1 tvg-logo="",24/7 Estrenos CienciaFiccion (e)(720)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/144551
 #EXTINF:-1,24/7 Estrenos Comedia (e)(720)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/144552
@@ -1504,11 +1542,11 @@ http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/144554
 #EXTINF:-1,24/7 Fantasia (e)(720)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37921
 
-#EXTINF:-1,24/7 Fear the Walking Dead
+#EXTINF:-1 tvg-logo="",24/7 Fear the Walking Dead
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/61987
-#EXTINF:-1,24/7 Flash (e)(720)
+#EXTINF:-1 tvg-logo="",24/7 Flash (e)(720)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37747
-#EXTINF:-1,24/7 Friends (e)(720)
+#EXTINF:-1 tvg-logo="",24/7 Friends (e)(720)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37800
 
 #EXTINF:-1,24/7 Harry Potter (e) (1080) 
@@ -1543,44 +1581,37 @@ http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37751
 #EXTINF:-1,24/7 La Casa de Mickey Mouse (e)(720)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37834
 
-#EXTINF:-1,24/7 La Casa de Papel (e)(720)
+#EXTINF:-1 tvg-logo="",24/7 La Casa de Papel (e)(720)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37774
-#EXTINF:-1,24/7 La Familia Ingalls (e)(SD)
+#EXTINF:-1 tvg-logo="",24/7 La Familia Ingalls (e)(SD)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37809
 
-#EXTINF:-1,24/7 La Familia Monster (e)(SD)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37787
-
-
-#EXTINF:-1,24/7 La Pantera Rosa (e)(720)
+#EXTINF:-1 tvg-logo="",24/7 La Pantera Rosa (e)(720)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/38447
 
-#EXTINF:-1,24/7 La Vaca y el Pollito (e)(SD)
+#EXTINF:-1 tvg-logo="",24/7 La Vaca y el Pollito (e)(SD)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/63333
 
-#EXTINF:-1,24/7 Looney Tunes (e)
+#EXTINF:-1 tvg-logo="",24/7 Looney Tunes (e)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37848
 
-#EXTINF:-1,24/7 Los Años Maravillosos (e)(SD)
+#EXTINF:-1 tvg-logo="",24/7 Los Años Maravillosos (e)(SD)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37760
 
-#EXTINF:-1,24/7 Los Expedientes Secretos X (e)(720)
+#EXTINF:-1 tvg-logo="",24/7 Los Expedientes Secretos X (e)(720)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37796
-
-#EXTINF:-1,24/7 Los Locos Addams  (e)(SD)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37786
 
 #EXTINF:-1,24/7 Los Magnificos (e)(720)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37805
 
-#EXTINF:-1,24/7 Los Picapiedras (e)
+#EXTINF:-1 tvg-logo="",24/7 Los Picapiedras (e)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37854
 
-#EXTINF:-1,24/7 Los Simpsons S01 a S20 (e)(720)
+#EXTINF:-1 tvg-logo="",24/7 Los Simpsons S01 a S20 (e)(720)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37767
-#EXTINF:-1,24/7 Los Simpsons S20 a S30  (e)(720)
+#EXTINF:-1 tvg-logo="",24/7 Los Simpsons S20 a S30  (e)(720)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37758
-#EXTINF:-1,24/7 Los Supersonicos
+#EXTINF:-1 tvg-logo="",24/7 Los Supersonicos
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj
 
 #EXTINF:-1,24/7 Macgyver (e)(SD)
@@ -1642,26 +1673,25 @@ http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37789
 #EXTINF:-1,24/7 Superman (e)(720)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/58181
 
-#EXTINF:-1,24/7 Universo DC (e)(1080)
+#EXTINF:-1 tvg-logo="",24/7 Universo DC (e)(1080)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37916
 
-#EXTINF:-1,24/7 Universo Marvel (e)(1080)
+#EXTINF:-1 tvg-logo="",24/7 Universo Marvel (e)(1080)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37907
-#EXTINF:-1,24/7 Vecinos (e)(720)
+#EXTINF:-1 tvg-logo="",24/7 Vecinos (e)(720)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37785
 
-#EXTINF:-1,24/7 Walker Texas Ranger (e)(SD)
+#EXTINF:-1 tvg-logo="",24/7 Walker Texas Ranger (e)(SD)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37762
 
-#EXTINF:-1,24/7 Winnie de Pooh (e)(720)
+#EXTINF:-1 tvg-logo="",24/7 Winnie de Pooh (e)(720)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/44376
-#EXTINF:-1,24/7 X-Men (e)(720)
+#EXTINF:-1 tvg-logo="",24/7 X-Men (e)(720)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37924
-#EXTINF:-1,24/7 X-Men Animated Series (e) (SD)
+#EXTINF:-1 tvg-logo="",24/7 X-Men Animated Series (e) (SD)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37838
-#EXTINF:-1,24/7 Xena warrior princess (e)(SD)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37781
 
+https://ntvb.tmsimg.com/assets/p184132_b_h8_an.jpg?w=1280&h=720
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/paramountanimation/images/4/4b/UPN_Kids_logo.png/revision/latest?cb=20210813190320" tvg-group="INFANTILES",¡Haz Clic!
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4310
 
@@ -1823,6 +1853,9 @@ https://59ce1298bfb98.streamlock.net/educanal/educanal/chunklist_w92056851.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BADfaU8.png" tvg-group="INFANTILES",Canal Ipe | Perú
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZoRRVDf.png" tvg-group="INFANTILES",Paka Paka NEW
+http://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLjeYmOFVl79uC9hiyoy2TKSZXj-_Iotd4HaC_N96IzYCheiJnfwnXfsIp4ZMq9iz2gNE&usqp=CAU" tvg-group="INFANTILES", Comunicaciones Jimenez
 https://cageu.bozztv.com/ssh101/ssh101/comunicaciones/playlist.m3u8
@@ -2635,7 +2668,7 @@ http://redima.pro:8880/TISUCR/TISUCR/446
 #EXTINF:-1,DISTRITO COMEDIA HD
 http://redima.pro:8880/TISUCR/TISUCR/587
 
-#EXTINF:-1,MTV HD
+#EXTINF:-1,MTV HD redima 1015
 http://redima.pro:8880/TISUCR/TISUCR/1015
 #EXTINF:-1,ECUAVISA
 http://redima.pro:8880/TISUCR/TISUCR/447
@@ -2657,7 +2690,7 @@ http://redima.pro:8880/TISUCR/TISUCR/463
 http://redima.pro:8880/TISUCR/TISUCR/465
 
 
-#EXTINF:-1,MTV HD
+#EXTINF:-1,MTV HD redima
 http://redima.pro:8880/TISUCR/TISUCR/978
 #EXTINF:-1,Film & arts HD
 http://redima.pro:8880/TISUCR/TISUCR/1036
@@ -2752,7 +2785,7 @@ http://168.227.22.18:1935/live/mobile-108/playlist.m3u8
 #EXTINF:-0, Nickelodeon
 http://168.227.22.18:1935/live/mobile-112/playlist.m3u8
 
-#EXTINF:-0, Telemundo Internacional
+#EXTINF:-0, Telemundo Internacional 168
 http://168.227.22.18:1935/live/mobile-152/playlist.m3u8
 
 
@@ -3170,10 +3203,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-sams
 #EXTINF:0,Karibeña (Peru) (🇵🇪)
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 
-
-#EXTINF:0,Kidz (España) (🇪🇸) fast
-https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61/4.m3u8
-
 #EXTINF:0,La Liga Premier Paramount+ (España) (🇪🇸)
 https://is.gd/ejlv3g
 
@@ -3372,7 +3401,7 @@ https://live.obslivestream.com/vztv/index.m3u8
 #EXTINF:0,W (Nicaragua) (🇳🇮)
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
 #EXTINF:0,W (Peru) (🇵🇪) OK
-https://live.obslivestream.com/wtv/index.m3u8
+T
 #EXTINF:0,Wapp (Chile) (🇨🇱)
 https://marine2.miplay.cl/wapp/playlist.m3u8
 
