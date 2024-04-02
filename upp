@@ -1,44 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="453" tvg-name="TVN - 24h" tvg-logo="https://cdn.m3u.cl/logo/453_TVN___24h.png" tvg-group="INFANTILES", TVN - 24h ✪ | CL
-http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="Telemicro.do" tvg-logo="https://i.imgur.com/WhgySAk.png" tvg-group="INFANTILES",Telemicro (480p)
-http://51.81.93.239:8084/hls/tmicro.m3u8
-
-#EXTINF:-1 tvg-id="GuaroTV.ve" tvg-logo="https://i.ibb.co/LN92K6h/IMG-20230705-154347.jpg" tvg-group="INFANTILES",Guaro TV (1080p)
-https://streamtv.intervenhosting.net:3061/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-id="LIMTV.py" tvg-logo="https://i.imgur.com/CALoCyo.png" group-title="Undefined",LIM TV (720p)
-https://tv.invasivamedia.com/hls/limtv.m3u8
-
-#EXTINF:-1 tvg-id="TuKanal.co" tvg-logo="https://i.imgur.com/GJthQOa.png" group-title="Undefined",Tu Kanal (1080p)
-http://45.33.63.98/hls/abdi.m3u8
-
-#EXTINF:-1 tvg-id="KanalDDrama.tr" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="Series",Kanal D Drama (1080p)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TAMTV.ve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Logo_TAM.png" group-title="General",TAM TV (240p)
-https://tv.webtuya.com:3459/live/tammeridalive.m3u8
-
-#EXTINF:-1 tvg-id="STZTelebista.es" tvg-logo="https://i.imgur.com/rFQuAEv.png" group-title="Music",STZ Telebista (1080p)
-https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
-
-#EXTINF:-1 tvg-id="Mun2TV.do" tvg-logo="https://i.imgur.com/e38DNzI.png" group-title="Music",Mun2TV (720p)
-https://play.amelbasoluciones.co:3309/live/mun2tvlive.m3u8
-
-#EXTINF:-1,VIÑA  2024 📺
-https://ch1-tva.duin.dev/hls/stream.m3u8
- 
-#EXTINF:-1, v marine
-https://marine2.miplay.cl/c13/mono.m3u8
-
-#EXTINF:-1, v flynetwifi
-http://stream.flynetwifi.com:1935/live/mobile-148/playlist.m3u8
-
-#EXTINF:-1,Inglaterra vs Brasil 🔵 361
-https://linear-361.frequency.stream/mt/studio/361/hls/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5eVXghNNepwv_1RdjZKf1RgIj_QD4j-zdEQGZyVt6omJ0IF3E1U31TNbdkWaZcJPxbZ0&usqp=CAU" tvg-group="ARGENTINA",Gran Hermano Argentina 24Hrs 
 http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/132440
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5eVXghNNepwv_1RdjZKf1RgIj_QD4j-zdEQGZyVt6omJ0IF3E1U31TNbdkWaZcJPxbZ0&usqp=CAU" tvg-group="ARGENTINA",Camara 1 Gran Hermano Argentina 24Hrs 
@@ -54,6 +15,55 @@ http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/37839
 http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/1643
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkgu66UiRPyPOEbQNrlxjkD74COqct2izojNrp7T3weNpcFyZM4nRDb4D5Dd9-HJWYzSkmWu6d-TcZSfIg97RiwOEY6gRniJrjKxAjS9MYHP1PIATIyHS8QUb8WOYSq8Urhpud1LpD7Ce-KOOmnwuVnuxtjBvH7eCIvYFXs51pj4GcDzOd8CwtG99P/s860/dsports-2022.png",DTV Sports (p) UY
 http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/92320
+
+#EXTINF:-1,DIRECTV ECUADOR restreamus
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/80559
+#EXTINF:-1,D_GAMES_EC*
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/182704
+#EXTINF:-1,││D_GAMES││ [HD] OP
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/146501
+#EXTINF:-1,││D_GAMES││ [SD] OP
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/146502
+#EXTINF:-1,││D_GAMES││
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/146503
+#EXTINF:-1,││D_GAMES_2││ [HD]
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/146504
+#EXTINF:-1,││D_GAMES_2││ [HD] OP
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/146505
+#EXTINF:-1,││D_GAMES_CH││ [HD]*
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/146506
+#EXTINF:-1,││D_GAMES_COL││ [HD]
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/146507
+#EXTINF:-1,││D_GAMES_EC││ [HD]
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/146508
+#EXTINF:-1,││D_GAMES_PER││ [HD]*
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/146509
+#EXTINF:-1,││D_GAMES_+ ││ [HD]
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/146510
+#EXTINF:-1,││D_GAMES_+ ││ [HD] OP
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/146511
+#EXTINF:-1,││D_GAMES││ FIGHT [HD]*
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/146512
+#EXTINF:-1,││SD_GAMES_SD││ 
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/146513
+#EXTINF:-1,││sD_GAMES_2 ││ [HD]*
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/146514
+#EXTINF:-1,││prD_GAMES_EC││ [HD] *
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/146517
+#EXTINF:-1,││prD_GAMES││PLUS_F
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/146518
+#EXTINF:-1,││prD_GAMES_2 ││ [HD]
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/146519
+#EXTINF:-1,││prD_GAMES_2_EC││ [HD]
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/146520
+#EXTINF:-1,││prD_GAMES+││ [HD]
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/146521
+#EXTINF:-1,││prD_GAMES_+_EC││ [HD]
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/146522
+#EXTINF:-1,││tvD_GAMES││ [HD]
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/146523
+#EXTINF:-1,││tvD_GAMES_+││ [HD] restreamus
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/146524
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkgu66UiRPyPOEbQNrlxjkD74COqct2izojNrp7T3weNpcFyZM4nRDb4D5Dd9-HJWYzSkmWu6d-TcZSfIg97RiwOEY6gRniJrjKxAjS9MYHP1PIATIyHS8QUb8WOYSq8Urhpud1LpD7Ce-KOOmnwuVnuxtjBvH7eCIvYFXs51pj4GcDzOd8CwtG99P/s860/dsports-2022.png",Directv Sports (e)(1080) fuxxi
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/955
@@ -71,6 +81,11 @@ http://redima.pro:8880/TISUCR/TISUCR/576
 http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/53540
 #EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/FOX%20DEPORTES.png" group-title="Deportes",FOX Deportes HD (i)
 http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/40910
+
+#EXTINF:-1, ││ARG││  TNT SPORTS ARGENTINA [HD] restreamus
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/147
+#EXTINF:-1,││ARG││  TNT SPORTS ARGENTINA [FHD] restreamus
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/386
 
 #EXTINF:-1,ARG-TNT Sports (L)(720) fuxx
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/309414
@@ -311,6 +326,22 @@ http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/153866
 #EXTINF:-1,ARG-TV Publica (M)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/22125
 
+
+#EXTINF:-1,││ARG││  TELEFE HQ restreamus
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/264
+#EXTINF:-1,││ARG││ ARGENTINA EL TRECE [HQ]
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/265
+#EXTINF:-1,││ARG││  EL NUEVE HD
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/269
+#EXTINF:-1,││ARG││ CRONICA
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/584
+#EXTINF:-1,││ARG││ PAKA PAKA HQ
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/590
+#EXTINF:-1,││ARG││ TELEMAX
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/592
+#EXTINF:-1,││ARG││ TN restreamus
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/593
+
 #EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/AMERICATV.png" tvg-group="ARGENTINA", America TV (Not 24/7)
 https://ythls.onrender.com/channel/UC6NVDkuzY2exMOVFw4i9oHw.m3u8
 
@@ -319,6 +350,9 @@ http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/116192
 
 #EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/AMERICATV.png" tvg-group="ARGENTINA",ARG-America TV (M)(720)fuxxi
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/22094
+
+#EXTINF:-1,││ARG││  AMERICA 2 HQ restreamus
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/266
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Canal_Ocho_San_Juan_%28Logo_2018%29.png" tvg-group="ARGENTINA", CANAL 8 SAN JUAN 
 https://ythls.armelin.one/channel/UC5UKMEIoqvNDMSDz2_6Sn9g.m3u8
@@ -1174,6 +1208,139 @@ http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/38699
 http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/38698
 #EXTINF:-1 tvg-id="" tvg-name="Happy Madisson HD (i)" tvg-logo="" group-title="24/7",Happy Madisson HD (i)
 http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/38696
+
+#EXTINF:-1,││ESP││ VIAJAR SD restreamus
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/1362
+#EXTINF:-1,24/7 SERIES INFANTILES  DRAGON BALL Z restreamus
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/1439
+#EXTINF:-1,24/7 LOS SIMPSON
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/1440
+#EXTINF:-1,24/7  BOB ESPONJA
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/1441
+#EXTINF:-1,24/7 SERIES INFANTILES | DRAGON BALL SUPER
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/1442
+#EXTINF:-1,24/7 SERIES INFANTILES | DRAGON BALL GT
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/1443
+#EXTINF:-1,24/7 SERIES INFANTILES | DRAGON BALL Z
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/1444
+#EXTINF:-1,24/7 SERIES | CHAVO DEL OCHO 
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/1445
+#EXTINF:-1,24/7 SERIES INFANTILES | LA FAMILIA PELUCHE TEMPORADA 2 Y 3
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/1446
+#EXTINF:-1,24/7 SERIES INFANTILES | CABALLERO DEL ZODIACO
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/1447
+#EXTINF:-1,24/7 SERIES INFANTILES | MALCOM IN THE MIDDLE TEMPORADA 1 2 3
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/1448
+#EXTINF:-1,24/7 SERIES INFANTILES | EL CHAVO DEL OCHO
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/1449
+#EXTINF:-1,24/7 SERIES COMEDIAS | LA FAMILIA PELUCHE TEMPORADA 1
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/1450
+#EXTINF:-1,24/7 SERIES INFANTILES | BEN 10
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/1451
+#EXTINF:-1,24/7 SERIES INFANTILES | MR BEAN
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/1452
+#EXTINF:-1,PPV MOVIES | TERROR
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/1454
+#EXTINF:-1,24/7 SERIES INFANTILES | ED EDD Y EDDY
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/1455
+#EXTINF:-1,24/7 SERIES INFANTILES | YU-GI-OH!
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/1457
+#EXTINF:-1,24/7 SERIES INFANTILES | ANIMANIACS
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/1458
+#EXTINF:-1,24/7 SERIES ACCION  | MARVEL
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/1459
+#EXTINF:-1,24/7 SERIES COMEDIA  | FRIENDS
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/1460
+#EXTINF:-1,24/7 SERIES TERROR | THE WALKING DEAD
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/1461
+#EXTINF:-1,24/7 SERIES INFANTILES | THUNDERCATS
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/1462
+#EXTINF:-1,PPV MOVIES | ACCION Y CLASICAS
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/1463
+#EXTINF:-1,24/7 SERIES ACCION | BREAKING BAD
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/1464
+#EXTINF:-1,24/7 SERIES INFANTILES | CABALLERO DEL ZODIACO
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/1465
+#EXTINF:-1,24/7 SERIES INFANTILES | TOY STORY
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/1466
+#EXTINF:-1,24/7 SERIES INFANTILES | PICAPIEDRAS
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/1467
+#EXTINF:-1,24/7  CASO CERRADO
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/1468
+#EXTINF:-1,24/7 SERIES INFANTILES | DISNEY PIXAR
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/1471
+#EXTINF:-1,24/7 SERIES INFANTILES | DREAMWORKS
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/1472
+#EXTINF:-1,24/7 SERIES INFANTILES | GARFIELD Y SUS AMIGOS
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/1474
+#EXTINF:-1,24/7 SERIES INFANTILES | GRAVITY FALLS
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/1475
+#EXTINF:-1,24/7 SERIES INFANTILES | JOHNNY TEST
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/1477
+#EXTINF:-1,24/7 SERIES COMEDIAS | KENAL Y KEL
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/1478
+#EXTINF:-1,24/7 SERIES INFANTILES | LA CASA DE MICKEY MOUSE
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/1479
+#EXTINF:-1,24/7 SERIES INFANTILES | LA PRINCESA SOFIA
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/1480
+#EXTINF:-1,24/7 SERIES INFANTILES | LADYBUG
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/1481
+#EXTINF:-1,24/7 | EL FINAL DEL PARAISO
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/1482
+#EXTINF:-1,24/7 | NARCO MEXICO
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/1483
+#EXTINF:-1,24/7 | EL CHAPO
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/1485
+#EXTINF:-1,24/7 SUPER CAMPEONES
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/1486
+#EXTINF:-1,24/7 SERIES INFANTILES| BIRDMAN THE GALAXY TRIO
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/1487
+#EXTINF:-1,24/7 SERIES  DIGIMON 
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/1488
+#EXTINF:-1,24/7 SERIES INFANTILES| DISENCHATMENT
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/1489
+#EXTINF:-1,24/7  INFANTIL DON GATO Y SU PANDILLA
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/1490
+#EXTINF:-1,24/7 SERIES INFANTILES| HIGH SCHOOL MUSICAL
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/1492
+#EXTINF:-1,24/7 SERIES INFANTILES| UNA CASA DE LOCO
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/79400
+#EXTINF:-1,24/7 SERIES INFANTILES| KICK BUTTOWSKI
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/79425
+#EXTINF:-1,24/7 SERIES INFANTILES| CARICATURAS CLASICAS
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/79426
+#EXTINF:-1,ES: El Show de los Looney Tunes 24H
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/220829
+#EXTINF:-1,ES: La Biblia Series HD 24H
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/220840
+#EXTINF:-1,ES: NCIS Los Angeles HD 24H
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/220847
+#EXTINF:-1,24/7 Barbie: Dreamhouse Adventures
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/221331
+#EXTINF:-1,24/7 El Chapulín Colorado animado
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/221332
+#EXTINF:-1,24/7 El maravilloso mundo de Mickey Mouse
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/221333
+#EXTINF:-1,24/7 El Pájaro Loco y sus amigos
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/221334
+#EXTINF:-1,24/7 Hotel Transylvania
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/221335
+#EXTINF:-1,24/7 Liga de la Justicia Ilimitada
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/221336
+#EXTINF:-1,24/7 Los supersónicos
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/221337
+#EXTINF:-1,24/7 Peppa Pig
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/221338
+#EXTINF:-1,24/7 Rápidos y furiosos: Espías al volante
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/221339
+#EXTINF:-1,24/7 Digimon Adventure
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/221340
+#EXTINF:-1,24/7 Disenchantment
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/221341
+#EXTINF:-1,24/7 PAW Patrol: Patrulla de cachorros
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/221342
+#EXTINF:-1,24/7 Power Rangers restreamus
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/221343
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/campeones-sendokai/images/2/23/Clan_Logo.png/revision/latest?cb=20150130205049&path-prefix=es" tvg-group="INFANTILES",clan
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:6_HD.smil/manifest.m3u8
@@ -3408,3 +3575,37 @@ https://stream.oursnetworktv.com/latin/encoder73/.m3u8
 
 #EXTINF:0,Zaracay (Ecuador) (🇪🇨)
 https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="453" tvg-name="TVN - 24h" tvg-logo="https://cdn.m3u.cl/logo/453_TVN___24h.png" tvg-group="INFANTILES", TVN - 24h ✪ | CL
+http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="Telemicro.do" tvg-logo="https://i.imgur.com/WhgySAk.png" tvg-group="INFANTILES",Telemicro (480p)
+http://51.81.93.239:8084/hls/tmicro.m3u8
+
+#EXTINF:-1 tvg-id="GuaroTV.ve" tvg-logo="https://i.ibb.co/LN92K6h/IMG-20230705-154347.jpg" tvg-group="INFANTILES",Guaro TV (1080p)
+https://streamtv.intervenhosting.net:3061/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="LIMTV.py" tvg-logo="https://i.imgur.com/CALoCyo.png" group-title="Undefined",LIM TV (720p)
+https://tv.invasivamedia.com/hls/limtv.m3u8
+
+#EXTINF:-1 tvg-id="TuKanal.co" tvg-logo="https://i.imgur.com/GJthQOa.png" group-title="Undefined",Tu Kanal (1080p)
+http://45.33.63.98/hls/abdi.m3u8
+
+#EXTINF:-1 tvg-id="KanalDDrama.tr" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="Series",Kanal D Drama (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TAMTV.ve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Logo_TAM.png" group-title="General",TAM TV (240p)
+https://tv.webtuya.com:3459/live/tammeridalive.m3u8
+
+#EXTINF:-1 tvg-id="STZTelebista.es" tvg-logo="https://i.imgur.com/rFQuAEv.png" group-title="Music",STZ Telebista (1080p)
+https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
+
+#EXTINF:-1 tvg-id="Mun2TV.do" tvg-logo="https://i.imgur.com/e38DNzI.png" group-title="Music",Mun2TV (720p)
+https://play.amelbasoluciones.co:3309/live/mun2tvlive.m3u8
+
+#EXTINF:-1,VIÑA  2024 📺
+https://ch1-tva.duin.dev/hls/stream.m3u8
+ 
+#EXTINF:-1, v marine
+https://marine2.miplay.cl/c13/mono.m3u8
