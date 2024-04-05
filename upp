@@ -1,5 +1,43 @@
 #EXTM3U
 
+
+#EXTINF:-1,VIÑA  2024 📺
+https://ch1-tva.duin.dev/hls/stream.m3u8
+ 
+#EXTINF:-1, v marine
+https://marine2.miplay.cl/c13/mono.m3u8
+
+#EXTINF:-1, SuperSpo
+https://bp1.mrgamingstreams.xyz/bar.m3u8
+
+#EXTINF:0,005 flynetwifi (España) (🇪🇸)
+http://stream.flynetwifi.com:1935/live/mobile-005/playlist.m3u8
+
+#EXTINF:0, channel05.akamaized
+https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
+
+#EXTINF:0, channel05 -6
+https://channel05.akamaized.net/hls/live/2033783/event01/index_6.m3u8
+
+#EXTINF:0, cdn.gabito.live/live/24
+https://cdn.gabito.live/live/24_oreon.m3u8
+
+#EXTINF:0, 🔶️El Salvador vs Honduras🔷️
+https://cdn1.gabito.live/live/1_oreon.m3u8
+
+#EXTINF:0, 🔶️El Salvador telecorporacion
+https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
+
+#EXTINF:0, 🇨🇴Colombia vs Rumania🇷🇴
+https://cdn5.natanael.live/live/51_scofield.m3u8
+
+#EXTINF:0, alba-pe-atv-atv.stream.mediatiquestream
+https://alba-pe-atv-atv.stream.mediatiquestream.com/tracks-v1a1/mono.m3u8
+
+#EXTINF:0, panda Español PARA ARGENTINA O USA VPN ARGENTINA 
+https://panda-live-e84a0b70976a.b-cdn.net/e686111a-75f0-4c6e-93b4-fdf03b1fe012.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5eVXghNNepwv_1RdjZKf1RgIj_QD4j-zdEQGZyVt6omJ0IF3E1U31TNbdkWaZcJPxbZ0&usqp=CAU" tvg-group="ARGENTINA",Gran Hermano Argentina 24Hrs 
 http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/132440
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5eVXghNNepwv_1RdjZKf1RgIj_QD4j-zdEQGZyVt6omJ0IF3E1U31TNbdkWaZcJPxbZ0&usqp=CAU" tvg-group="ARGENTINA",Camara 1 Gran Hermano Argentina 24Hrs 
@@ -3603,9 +3641,3 @@ https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
 
 #EXTINF:-1 tvg-id="Mun2TV.do" tvg-logo="https://i.imgur.com/e38DNzI.png" group-title="Music",Mun2TV (720p)
 https://play.amelbasoluciones.co:3309/live/mun2tvlive.m3u8
-
-#EXTINF:-1,VIÑA  2024 📺
-https://ch1-tva.duin.dev/hls/stream.m3u8
- 
-#EXTINF:-1, v marine
-https://marine2.miplay.cl/c13/mono.m3u8
