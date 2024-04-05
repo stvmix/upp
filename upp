@@ -13,29 +13,28 @@ https://bp1.mrgamingstreams.xyz/bar.m3u8
 #EXTINF:0,005 flynetwifi (España) (🇪🇸)
 http://stream.flynetwifi.com:1935/live/mobile-005/playlist.m3u8
 
-#EXTINF:0, channel05.akamaized
-https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
-
-#EXTINF:0, channel05 -6
-https://channel05.akamaized.net/hls/live/2033783/event01/index_6.m3u8
-
-#EXTINF:0, cdn.gabito.live/live/24
-https://cdn.gabito.live/live/24_oreon.m3u8
-
-#EXTINF:0, 🔶️El Salvador vs Honduras🔷️
-https://cdn1.gabito.live/live/1_oreon.m3u8
-
-#EXTINF:0, 🔶️El Salvador telecorporacion
+#EXTINF:0, 4 🔶️El Salvador telecorporacion
 https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
 
-#EXTINF:0, 🇨🇴Colombia vs Rumania🇷🇴
-https://cdn5.natanael.live/live/51_scofield.m3u8
+#EXTINF#EXTINF:-1 tvg-group="INFANTILES",Imagen TV (720p) [No 24/7]
+https://ythls.armelin.one/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
 
-#EXTINF:0, alba-pe-atv-atv.stream.mediatiquestream
+#EXTINF:-1 tvg-logo="https://images2.imgbox.com/7f/a6/Ya18vh19_o.png" tvg-group="INFANTILES", ATV HD
 https://alba-pe-atv-atv.stream.mediatiquestream.com/tracks-v1a1/mono.m3u8
 
-#EXTINF:0, panda Español PARA ARGENTINA O USA VPN ARGENTINA 
-https://panda-live-e84a0b70976a.b-cdn.net/e686111a-75f0-4c6e-93b4-fdf03b1fe012.m3u8
+#EXTINF:-1 tvg-logo="https://images2.imgbox.com/2f/65/RR4vnkng_o.png" tvg-group="INFANTILES",ATV+ NOTICIAS
+https://alba-pe-atv-atvmas.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Cable Perú" tvg-logo="https://images2.imgbox.com/97/ce/094nuyen_o.jpg" tvg-group="INFANTILES",Cable Perú
+https://video2.lhdserver.es/cableperu/live.m3u8
+
+#EXTINF:-1 tvg-id="ATV HD" tvg-logo="https://images2.imgbox.com/7f/a6/Ya18vh19_o.png" group-title="CANALES PERU", ATV HD
+https://dysmuyxh5vstv.cloudfront.net/hls/live_720p30.m3u8
+#EXTINF:-1 tvg-id="ATV+ NOTICIAS" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://images2.imgbox.com/2f/65/RR4vnkng_o.png" group-title="CANALES PERU",ATV+ NOTICIAS
+https://dysmuyxh5vstv.cloudfront.net/hls/atv2.m3u8
+
+#EXTINF:-1 tvg-logo="https://images2.imgbox.com/42/71/hv3wvkqO_o.png" group-title="*CULTURA*", LOVE NATURE
+https://bamus-spa-roku.amagi.tv/playlist1080-p.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5eVXghNNepwv_1RdjZKf1RgIj_QD4j-zdEQGZyVt6omJ0IF3E1U31TNbdkWaZcJPxbZ0&usqp=CAU" tvg-group="ARGENTINA",Gran Hermano Argentina 24Hrs 
@@ -3641,3 +3640,4 @@ https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
 
 #EXTINF:-1 tvg-id="Mun2TV.do" tvg-logo="https://i.imgur.com/e38DNzI.png" group-title="Music",Mun2TV (720p)
 https://play.amelbasoluciones.co:3309/live/mun2tvlive.m3u8
+
