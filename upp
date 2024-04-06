@@ -1,5 +1,36 @@
 #EXTM3U
 
+#EXTINF:-1,STAR+ 1 FHD ⭐
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/222798
+#EXTINF:-1,STAR+ 1 HD ⭐
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/222799
+#EXTINF:-1,STAR+ 2 FHD ⭐
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/222800
+#EXTINF:-1,STAR+ 2 HD ⭐
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/222801
+#EXTINF:-1,STAR+ 3 FHD ⭐
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/222802
+#EXTINF:-1,STAR+ 3 HD ⭐
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/222803
+
+#EXTINF:-1,EVENTOS MLS  ⭐ FHD
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/234840
+#EXTINF:-1,EVENTOS MLS  ⭐ HD
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/234841
+#EXTINF:-1,EVENTOS MLS  ⭐ SD
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/234842
+
+#EXTINF:-1,CHAMPIONS HOY castellano
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/242831
+#EXTINF:-1,CHAMPIONS HOY 2
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/242832
+#EXTINF:-1,CHAMPIONS HOY 1
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/242833
+#EXTINF:-1,La liga castellano
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/243753
+#EXTINF:-1,La liga Latino
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/243754
+
 
 #EXTINF:-1,VIÑA  2024 📺
 https://ch1-tva.duin.dev/hls/stream.m3u8
@@ -10,31 +41,8 @@ https://marine2.miplay.cl/c13/mono.m3u8
 #EXTINF:-1, SuperSpo
 https://bp1.mrgamingstreams.xyz/bar.m3u8
 
-#EXTINF:0,005 flynetwifi (España) (🇪🇸)
-http://stream.flynetwifi.com:1935/live/mobile-005/playlist.m3u8
-
 #EXTINF:0, 4 🔶️El Salvador telecorporacion
 https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
-
-#EXTINF#EXTINF:-1 tvg-group="INFANTILES",Imagen TV (720p) [No 24/7]
-https://ythls.armelin.one/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
-
-#EXTINF:-1 tvg-logo="https://images2.imgbox.com/7f/a6/Ya18vh19_o.png" tvg-group="INFANTILES", ATV HD
-https://alba-pe-atv-atv.stream.mediatiquestream.com/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://images2.imgbox.com/2f/65/RR4vnkng_o.png" tvg-group="INFANTILES",ATV+ NOTICIAS
-https://alba-pe-atv-atvmas.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Cable Perú" tvg-logo="https://images2.imgbox.com/97/ce/094nuyen_o.jpg" tvg-group="INFANTILES",Cable Perú
-https://video2.lhdserver.es/cableperu/live.m3u8
-
-#EXTINF:-1 tvg-id="ATV HD" tvg-logo="https://images2.imgbox.com/7f/a6/Ya18vh19_o.png" group-title="CANALES PERU", ATV HD
-https://dysmuyxh5vstv.cloudfront.net/hls/live_720p30.m3u8
-#EXTINF:-1 tvg-id="ATV+ NOTICIAS" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://images2.imgbox.com/2f/65/RR4vnkng_o.png" group-title="CANALES PERU",ATV+ NOTICIAS
-https://dysmuyxh5vstv.cloudfront.net/hls/atv2.m3u8
-
-#EXTINF:-1 tvg-logo="https://images2.imgbox.com/42/71/hv3wvkqO_o.png" group-title="*CULTURA*", LOVE NATURE
-https://bamus-spa-roku.amagi.tv/playlist1080-p.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5eVXghNNepwv_1RdjZKf1RgIj_QD4j-zdEQGZyVt6omJ0IF3E1U31TNbdkWaZcJPxbZ0&usqp=CAU" tvg-group="ARGENTINA",Gran Hermano Argentina 24Hrs 
@@ -46,61 +54,17 @@ http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/132442
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5eVXghNNepwv_1RdjZKf1RgIj_QD4j-zdEQGZyVt6omJ0IF3E1U31TNbdkWaZcJPxbZ0&usqp=CAU" tvg-group="ARGENTINA",Camara 3 Gran Hermano Argentina 24Hrs 
 http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/132443
 
-#EXTINF:-1 tvg-logo="https://budtv-ultra.com/posters/1686583437162.png" group-title="Deportes",DTV Sports (i)
-http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/37839
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkgu66UiRPyPOEbQNrlxjkD74COqct2izojNrp7T3weNpcFyZM4nRDb4D5Dd9-HJWYzSkmWu6d-TcZSfIg97RiwOEY6gRniJrjKxAjS9MYHP1PIATIyHS8QUb8WOYSq8Urhpud1LpD7Ce-KOOmnwuVnuxtjBvH7eCIvYFXs51pj4GcDzOd8CwtG99P/s860/dsports-2022.png" group-title="Argentina",DTV Sports (ARGENTINA) HD
 http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/1643
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkgu66UiRPyPOEbQNrlxjkD74COqct2izojNrp7T3weNpcFyZM4nRDb4D5Dd9-HJWYzSkmWu6d-TcZSfIg97RiwOEY6gRniJrjKxAjS9MYHP1PIATIyHS8QUb8WOYSq8Urhpud1LpD7Ce-KOOmnwuVnuxtjBvH7eCIvYFXs51pj4GcDzOd8CwtG99P/s860/dsports-2022.png",DTV Sports (p) UY
 http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/92320
 
-#EXTINF:-1,DIRECTV ECUADOR restreamus
-http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/80559
-#EXTINF:-1,D_GAMES_EC*
-http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/182704
-#EXTINF:-1,││D_GAMES││ [HD] OP
-http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/146501
-#EXTINF:-1,││D_GAMES││ [SD] OP
-http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/146502
-#EXTINF:-1,││D_GAMES││
-http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/146503
-#EXTINF:-1,││D_GAMES_2││ [HD]
-http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/146504
-#EXTINF:-1,││D_GAMES_2││ [HD] OP
-http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/146505
-#EXTINF:-1,││D_GAMES_CH││ [HD]*
-http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/146506
-#EXTINF:-1,││D_GAMES_COL││ [HD]
+#EXTINF:-1 tvg-logo="https://budtv-ultra.com/posters/1686583437162.png",││D_GAMES_COL││ [HD]
 http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/146507
-#EXTINF:-1,││D_GAMES_EC││ [HD]
-http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/146508
-#EXTINF:-1,││D_GAMES_PER││ [HD]*
-http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/146509
-#EXTINF:-1,││D_GAMES_+ ││ [HD]
-http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/146510
-#EXTINF:-1,││D_GAMES_+ ││ [HD] OP
-http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/146511
-#EXTINF:-1,││D_GAMES││ FIGHT [HD]*
-http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/146512
-#EXTINF:-1,││SD_GAMES_SD││ 
-http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/146513
-#EXTINF:-1,││sD_GAMES_2 ││ [HD]*
-http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/146514
-#EXTINF:-1,││prD_GAMES_EC││ [HD] *
-http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/146517
-#EXTINF:-1,││prD_GAMES││PLUS_F
-http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/146518
-#EXTINF:-1,││prD_GAMES_2 ││ [HD]
-http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/146519
-#EXTINF:-1,││prD_GAMES_2_EC││ [HD]
-http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/146520
-#EXTINF:-1,││prD_GAMES+││ [HD]
-http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/146521
-#EXTINF:-1,││prD_GAMES_+_EC││ [HD]
-http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/146522
-#EXTINF:-1,││tvD_GAMES││ [HD]
-http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/146523
-#EXTINF:-1,││tvD_GAMES_+││ [HD] restreamus
-http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/146524
+#EXTINF:-1 tvg-logo="https://budtv-ultra.com/posters/1686583437162.png",D_GAMES_EC*
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/182704
+#EXTINF:-1 tvg-logo="https://budtv-ultra.com/posters/1686583437162.png",││D_GAMES││
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/146503
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkgu66UiRPyPOEbQNrlxjkD74COqct2izojNrp7T3weNpcFyZM4nRDb4D5Dd9-HJWYzSkmWu6d-TcZSfIg97RiwOEY6gRniJrjKxAjS9MYHP1PIATIyHS8QUb8WOYSq8Urhpud1LpD7Ce-KOOmnwuVnuxtjBvH7eCIvYFXs51pj4GcDzOd8CwtG99P/s860/dsports-2022.png",Directv Sports (e)(1080) fuxxi
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/955
@@ -113,6 +77,20 @@ http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/4668
 http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/55286
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/2560px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png",DIRECTV SPORTS 2
 http://redima.pro:8880/TISUCR/TISUCR/576
+
+#EXTINF:-1,││D_GAMES_2││ [HD]
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/146504
+#EXTINF:-1,││D_GAMES_2││ [HD] OP
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/146505
+#EXTINF:-1,││D_GAMES_EC││ [HD]
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/146508
+
+#EXTINF:-1,││D_GAMES_+ ││ [HD] OP
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/146511
+#EXTINF:-1,││SD_GAMES_SD││ 
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/146513
+#EXTINF:-1,││prD_GAMES_2_EC││ [HD]
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/146520
 
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports Premium MX (p)" tvg-logo="https://panel.budtv-ultra.com/posters/1649093109303.png" group-title="Latinos",Fox Sports Premium MX (p)
 http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/53540
@@ -3641,3 +3619,14 @@ https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
 #EXTINF:-1 tvg-id="Mun2TV.do" tvg-logo="https://i.imgur.com/e38DNzI.png" group-title="Music",Mun2TV (720p)
 https://play.amelbasoluciones.co:3309/live/mun2tvlive.m3u8
 
+#EXTINF#EXTINF:-1 tvg-group="INFANTILES",Imagen TV (720p) [No 24/7]
+https://ythls.armelin.one/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
+
+#EXTINF:-1 tvg-logo="https://images2.imgbox.com/7f/a6/Ya18vh19_o.png" tvg-group="INFANTILES", ATV HD
+https://alba-pe-atv-atv.stream.mediatiquestream.com/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://images2.imgbox.com/2f/65/RR4vnkng_o.png" tvg-group="INFANTILES",ATV+ NOTICIAS
+https://alba-pe-atv-atvmas.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Cable Perú" tvg-logo="https://images2.imgbox.com/97/ce/094nuyen_o.jpg" tvg-group="INFANTILES",Cable Perú
+https://video2.lhdserver.es/cableperu/live.m3u8
